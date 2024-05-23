@@ -1,0 +1,3511 @@
+(base) alduck@alduck MutationAnalisys % python3 run_dot_m_files_MR3_sumError.py -i '/Users/alduck/Documents/Github/mt_industrial_usecase/SpecialIssue_PROFES/MutationAnalisys/not_crased_mutated_files_all_inputs/*' -m 'MR3_sum_err.m'
+***** Procesing: Num84Line13Vers2
+DONE with  Num84Line13Vers2 . Execution time:  65.15333199501038  seconds
+*****
+***** Procesing: Num232Line16Vers38
+DONE with  Num232Line16Vers38 . Execution time:  69.26723575592041  seconds
+*****
+***** Procesing: Num1230Line139Vers15
+DONE with  Num1230Line139Vers15 . Execution time:  63.69487690925598  seconds
+*****
+***** Procesing: Num46Line10Vers7
+DONE with  Num46Line10Vers7 . Execution time:  59.78327202796936  seconds
+*****
+***** Procesing: Num117Line13Vers35
+DONE with  Num117Line13Vers35 . Execution time:  67.4574282169342  seconds
+*****
+***** Procesing: Num161Line15Vers5
+DONE with  Num161Line15Vers5 . Execution time:  79.60362386703491  seconds
+*****
+***** Procesing: Num336Line34Vers8
+DONE with  Num336Line34Vers8 . Execution time:  28.01151418685913  seconds
+*****
+***** Procesing: Num324Line33Vers3
+DONE with  Num324Line33Vers3 . Execution time:  96.72204422950745  seconds
+*****
+***** Procesing: Num192Line15Vers36
+DONE with  Num192Line15Vers36 . Execution time:  74.50478911399841  seconds
+*****
+***** Procesing: Num446Line60Vers1
+DONE with  Num446Line60Vers1 . Execution time:  108.81716585159302  seconds
+*****
+***** Procesing: Num920Line114Vers25
+DONE with  Num920Line114Vers25 . Execution time:  70.89603209495544  seconds
+*****
+***** Procesing: Num1297Line141Vers9
+DONE with  Num1297Line141Vers9 . Execution time:  64.70581984519958  seconds
+*****
+***** Procesing: Num774Line101Vers50
+DONE with  Num774Line101Vers50 . Execution time:  64.6605978012085  seconds
+*****
+***** Procesing: Num113Line13Vers31
+DONE with  Num113Line13Vers31 . Execution time:  65.78044486045837  seconds
+*****
+***** Procesing: Num253Line20Vers4
+DONE with  Num253Line20Vers4 . Execution time:  64.45926809310913  seconds
+*****
+***** Procesing: Num1343Line149Vers2
+DONE with  Num1343Line149Vers2 . Execution time:  70.53773903846741  seconds
+*****
+***** Procesing: Num419Line43Vers5
+DONE with  Num419Line43Vers5 . Execution time:  27.687463998794556  seconds
+*****
+***** Procesing: Num1219Line139Vers4
+DONE with  Num1219Line139Vers4 . Execution time:  27.48081922531128  seconds
+*****
+***** Procesing: Num1072Line118Vers4
+DONE with  Num1072Line118Vers4 . Execution time:  21.886311292648315  seconds
+*****
+***** Procesing: Num1145Line122Vers27
+DONE with  Num1145Line122Vers27 . Execution time:  64.29625201225281  seconds
+*****
+***** Procesing: Num108Line13Vers26
+DONE with  Num108Line13Vers26 . Execution time:  66.03308200836182  seconds
+*****
+***** Procesing: Num1309Line144Vers8
+DONE with  Num1309Line144Vers8 . Execution time:  80.49396991729736  seconds
+*****
+***** Procesing: Num165Line15Vers9
+DONE with  Num165Line15Vers9 . Execution time:  89.15436100959778  seconds
+*****
+***** Procesing: Num105Line13Vers23
+DONE with  Num105Line13Vers23 . Execution time:  86.09004282951355  seconds
+*****
+***** Procesing: Num179Line15Vers23
+DONE with  Num179Line15Vers23 . Execution time:  75.39333200454712  seconds
+*****
+***** Procesing: Num1334Line146Vers20
+DONE with  Num1334Line146Vers20 . Execution time:  65.31403493881226  seconds
+*****
+***** Procesing: Num292Line20Vers43
+DONE with  Num292Line20Vers43 . Execution time:  84.57921814918518  seconds
+*****
+***** Procesing: Num678Line88Vers8
+DONE with  Num678Line88Vers8 . Execution time:  81.64027190208435  seconds
+*****
+***** Procesing: Num461Line61Vers10
+DONE with  Num461Line61Vers10 . Execution time:  75.22731494903564  seconds
+*****
+***** Procesing: Num474Line63Vers10
+DONE with  Num474Line63Vers10 . Execution time:  68.14591908454895  seconds
+*****
+***** Procesing: Num1304Line144Vers3
+DONE with  Num1304Line144Vers3 . Execution time:  100.31012201309204  seconds
+*****
+***** Procesing: Num520Line82Vers3
+DONE with  Num520Line82Vers3 . Execution time:  78.83514595031738  seconds
+*****
+***** Procesing: Num810Line104Vers11
+DONE with  Num810Line104Vers11 . Execution time:  69.00865888595581  seconds
+*****
+***** Procesing: Num452Line61Vers1
+DONE with  Num452Line61Vers1 . Execution time:  79.31331992149353  seconds
+*****
+***** Procesing: Num266Line20Vers17
+DONE with  Num266Line20Vers17 . Execution time:  72.84660696983337  seconds
+*****
+***** Procesing: Num1237Line139Vers22
+DONE with  Num1237Line139Vers22 . Execution time:  74.1062536239624  seconds
+*****
+***** Procesing: Num248Line19Vers8
+DONE with  Num248Line19Vers8 . Execution time:  65.91870594024658  seconds
+*****
+***** Procesing: Num407Line42Vers10
+DONE with  Num407Line42Vers10 . Execution time:  68.06300687789917  seconds
+*****
+***** Procesing: Num1111Line119Vers1
+DONE with  Num1111Line119Vers1 . Execution time:  71.52740979194641  seconds
+*****
+***** Procesing: Num39Line9Vers13
+DONE with  Num39Line9Vers13 . Execution time:  80.76498508453369  seconds
+*****
+***** Procesing: Num1293Line141Vers5
+DONE with  Num1293Line141Vers5 . Execution time:  78.14182567596436  seconds
+*****
+***** Procesing: Num826Line104Vers27
+DONE with  Num826Line104Vers27 . Execution time:  75.24079775810242  seconds
+*****
+***** Procesing: Num262Line20Vers13
+DONE with  Num262Line20Vers13 . Execution time:  76.7256031036377  seconds
+*****
+***** Procesing: Num510Line72Vers12
+DONE with  Num510Line72Vers12 . Execution time:  82.14707088470459  seconds
+*****
+***** Procesing: Num216Line16Vers22
+DONE with  Num216Line16Vers22 . Execution time:  87.1901228427887  seconds
+*****
+***** Procesing: Num91Line13Vers9
+DONE with  Num91Line13Vers9 . Execution time:  72.64988732337952  seconds
+*****
+***** Procesing: Num202Line16Vers8
+DONE with  Num202Line16Vers8 . Execution time:  82.84931683540344  seconds
+*****
+***** Procesing: Num524Line82Vers7
+DONE with  Num524Line82Vers7 . Execution time:  85.55442571640015  seconds
+*****
+***** Procesing: Num1329Line146Vers15
+DONE with  Num1329Line146Vers15 . Execution time:  81.6667640209198  seconds
+*****
+***** Procesing: Num569Line84Vers17
+DONE with  Num569Line84Vers17 . Execution time:  75.67572093009949  seconds
+*****
+***** Procesing: Num101Line13Vers19
+DONE with  Num101Line13Vers19 . Execution time:  106.6993248462677  seconds
+*****
+***** Procesing: Num280Line20Vers31
+DONE with  Num280Line20Vers31 . Execution time:  74.33297419548035  seconds
+*****
+***** Procesing: Num139Line14Vers20
+DONE with  Num139Line14Vers20 . Execution time:  91.60597395896912  seconds
+*****
+***** Procesing: Num187Line15Vers31
+DONE with  Num187Line15Vers31 . Execution time:  65.73599529266357  seconds
+*****
+***** Procesing: Num144Line14Vers25
+DONE with  Num144Line14Vers25 . Execution time:  73.67233896255493  seconds
+*****
+***** Procesing: Num1380Line152Vers4
+DONE with  Num1380Line152Vers4 . Execution time:  67.6050169467926  seconds
+*****
+***** Procesing: Num1333Line146Vers19
+DONE with  Num1333Line146Vers19 . Execution time:  86.22485423088074  seconds
+*****
+***** Procesing: Num220Line16Vers26
+DONE with  Num220Line16Vers26 . Execution time:  90.83036088943481  seconds
+*****
+***** Procesing: Num379Line41Vers23
+DONE with  Num379Line41Vers23 . Execution time:  92.49921298027039  seconds
+*****
+***** Procesing: Num284Line20Vers35
+DONE with  Num284Line20Vers35 . Execution time:  90.32985997200012  seconds
+*****
+***** Procesing: Num400Line42Vers3
+DONE with  Num400Line42Vers3 . Execution time:  76.11289501190186  seconds
+*****
+***** Procesing: Num23Line8Vers10
+DONE with  Num23Line8Vers10 . Execution time:  79.54388880729675  seconds
+*****
+***** Procesing: Num140Line14Vers21
+DONE with  Num140Line14Vers21 . Execution time:  91.80579495429993  seconds
+*****
+***** Procesing: Num111Line13Vers29
+DONE with  Num111Line13Vers29 . Execution time:  112.18265414237976  seconds
+*****
+***** Procesing: Num1340Line147Vers1
+DONE with  Num1340Line147Vers1 . Execution time:  40.88939905166626  seconds
+*****
+***** Procesing: Num58Line11Vers12
+DONE with  Num58Line11Vers12 . Execution time:  90.96457290649414  seconds
+*****
+***** Procesing: Num1251Line140Vers9
+DONE with  Num1251Line140Vers9 . Execution time:  33.79495811462402  seconds
+*****
+***** Procesing: Num1310Line144Vers9
+DONE with  Num1310Line144Vers9 . Execution time:  69.70455694198608  seconds
+*****
+***** Procesing: Num78Line11Vers32
+DONE with  Num78Line11Vers32 . Execution time:  65.53464770317078  seconds
+*****
+***** Procesing: Num682Line88Vers12
+DONE with  Num682Line88Vers12 . Execution time:  70.99779605865479  seconds
+*****
+***** Procesing: Num674Line88Vers4
+DONE with  Num674Line88Vers4 . Execution time:  69.99927997589111  seconds
+*****
+***** Procesing: Num1332Line146Vers18
+DONE with  Num1332Line146Vers18 . Execution time:  70.2534008026123  seconds
+*****
+***** Procesing: Num153Line14Vers34
+DONE with  Num153Line14Vers34 . Execution time:  84.48634696006775  seconds
+*****
+***** Procesing: Num1240Line139Vers25
+DONE with  Num1240Line139Vers25 . Execution time:  97.62459707260132  seconds
+*****
+***** Procesing: Num807Line104Vers8
+DONE with  Num807Line104Vers8 . Execution time:  97.6591408252716  seconds
+*****
+***** Procesing: Num1154Line122Vers36
+DONE with  Num1154Line122Vers36 . Execution time:  72.23915696144104  seconds
+*****
+***** Procesing: Num226Line16Vers32
+DONE with  Num226Line16Vers32 . Execution time:  71.6372389793396  seconds
+*****
+***** Procesing: Num276Line20Vers27
+DONE with  Num276Line20Vers27 . Execution time:  119.94587993621826  seconds
+*****
+***** Procesing: Num281Line20Vers32
+DONE with  Num281Line20Vers32 . Execution time:  85.48708891868591  seconds
+*****
+***** Procesing: Num181Line15Vers25
+DONE with  Num181Line15Vers25 . Execution time:  70.3426558971405  seconds
+*****
+***** Procesing: Num1328Line146Vers14
+DONE with  Num1328Line146Vers14 . Execution time:  80.89297199249268  seconds
+*****
+***** Procesing: Num145Line14Vers26
+DONE with  Num145Line14Vers26 . Execution time:  68.19808268547058  seconds
+*****
+***** Procesing: Num427Line43Vers13
+DONE with  Num427Line43Vers13 . Execution time:  23.81486201286316  seconds
+*****
+***** Procesing: Num67Line11Vers21
+DONE with  Num67Line11Vers21 . Execution time:  72.02767896652222  seconds
+*****
+***** Procesing: Num22Line8Vers9
+DONE with  Num22Line8Vers9 . Execution time:  64.89042568206787  seconds
+*****
+***** Procesing: Num285Line20Vers36
+DONE with  Num285Line20Vers36 . Execution time:  86.51329183578491  seconds
+*****
+***** Procesing: Num272Line20Vers23
+DONE with  Num272Line20Vers23 . Execution time:  78.36128783226013  seconds
+*****
+***** Procesing: Num820Line104Vers21
+DONE with  Num820Line104Vers21 . Execution time:  74.31584477424622  seconds
+*****
+***** Procesing: Num141Line14Vers22
+DONE with  Num141Line14Vers22 . Execution time:  62.067760944366455  seconds
+*****
+***** Procesing: Num157Line15Vers1
+DONE with  Num157Line15Vers1 . Execution time:  62.63326096534729  seconds
+*****
+***** Procesing: Num343Line37Vers1
+DONE with  Num343Line37Vers1 . Execution time:  66.21721601486206  seconds
+*****
+***** Procesing: Num1335Line146Vers21
+DONE with  Num1335Line146Vers21 . Execution time:  65.78732204437256  seconds
+*****
+***** Procesing: Num422Line43Vers8
+DONE with  Num422Line43Vers8 . Execution time:  79.5204701423645  seconds
+*****
+***** Procesing: Num1354Line150Vers2
+DONE with  Num1354Line150Vers2 . Execution time:  102.40238213539124  seconds
+*****
+***** Procesing: Num717Line92Vers7
+DONE with  Num717Line92Vers7 . Execution time:  144.73496675491333  seconds
+*****
+***** Procesing: Num798Line103Vers8
+DONE with  Num798Line103Vers8 . Execution time:  93.98334503173828  seconds
+*****
+***** Procesing: Num10Line7Vers10
+DONE with  Num10Line7Vers10 . Execution time:  70.9547917842865  seconds
+*****
+***** Procesing: Num684Line90Vers1
+DONE with  Num684Line90Vers1 . Execution time:  24.632002115249634  seconds
+*****
+***** Procesing: Num1378Line152Vers2
+DONE with  Num1378Line152Vers2 . Execution time:  69.42479991912842  seconds
+*****
+***** Procesing: Num1342Line149Vers1
+DONE with  Num1342Line149Vers1 . Execution time:  82.12125205993652  seconds
+*****
+***** Procesing: Num707Line90Vers24
+DONE with  Num707Line90Vers24 . Execution time:  29.819868087768555  seconds
+*****
+***** Procesing: Num1299Line143Vers1
+DONE with  Num1299Line143Vers1 . Execution time:  76.43011212348938  seconds
+*****
+***** Procesing: Num775Line101Vers51
+DONE with  Num775Line101Vers51 . Execution time:  63.403263092041016  seconds
+*****
+***** Procesing: Num198Line16Vers4
+DONE with  Num198Line16Vers4 . Execution time:  76.33735418319702  seconds
+*****
+***** Procesing: Num1311Line144Vers10
+DONE with  Num1311Line144Vers10 . Execution time:  89.2845549583435  seconds
+*****
+***** Procesing: Num185Line15Vers29
+DONE with  Num185Line15Vers29 . Execution time:  90.25988101959229  seconds
+*****
+***** Procesing: Num146Line14Vers27
+DONE with  Num146Line14Vers27 . Execution time:  80.65386295318604  seconds
+*****
+***** Procesing: Num809Line104Vers10
+DONE with  Num809Line104Vers10 . Execution time:  79.2518367767334  seconds
+*****
+***** Procesing: Num1313Line144Vers12
+DONE with  Num1313Line144Vers12 . Execution time:  93.70683693885803  seconds
+*****
+***** Procesing: Num410Line42Vers13
+DONE with  Num410Line42Vers13 . Execution time:  97.48462581634521  seconds
+*****
+***** Procesing: Num1233Line139Vers18
+DONE with  Num1233Line139Vers18 . Execution time:  121.33401441574097  seconds
+*****
+***** Procesing: Num275Line20Vers26
+DONE with  Num275Line20Vers26 . Execution time:  91.37542009353638  seconds
+*****
+***** Procesing: Num780Line101Vers56
+DONE with  Num780Line101Vers56 . Execution time:  94.89620685577393  seconds
+*****
+***** Procesing: Num439Line51Vers3
+DONE with  Num439Line51Vers3 . Execution time:  45.46086120605469  seconds
+*****
+***** Procesing: Num142Line14Vers23
+DONE with  Num142Line14Vers23 . Execution time:  122.42126989364624  seconds
+*****
+***** Procesing: Num464Line62Vers1
+DONE with  Num464Line62Vers1 . Execution time:  157.47311186790466  seconds
+*****
+***** Procesing: Num414Line42Vers17
+DONE with  Num414Line42Vers17 . Execution time:  110.6040711402893  seconds
+*****
+***** Procesing: Num64Line11Vers18
+DONE with  Num64Line11Vers18 . Execution time:  99.91208028793335  seconds
+*****
+***** Procesing: Num762Line101Vers38
+DONE with  Num762Line101Vers38 . Execution time:  71.33341598510742  seconds
+*****
+***** Procesing: Num286Line20Vers37
+DONE with  Num286Line20Vers37 . Execution time:  76.06496500968933  seconds
+*****
+***** Procesing: Num271Line20Vers22
+DONE with  Num271Line20Vers22 . Execution time:  83.72820115089417  seconds
+*****
+***** Procesing: Num435Line43Vers21
+DONE with  Num435Line43Vers21 . Execution time:  27.590226888656616  seconds
+*****
+***** Procesing: Num1337Line146Vers23
+DONE with  Num1337Line146Vers23 . Execution time:  77.64522290229797  seconds
+*****
+***** Procesing: Num406Line42Vers9
+DONE with  Num406Line42Vers9 . Execution time:  73.89905309677124  seconds
+*****
+***** Procesing: Num264Line20Vers15
+DONE with  Num264Line20Vers15 . Execution time:  82.50590515136719  seconds
+*****
+***** Procesing: Num1357Line150Vers5
+DONE with  Num1357Line150Vers5 . Execution time:  97.57553911209106  seconds
+*****
+***** Procesing: Num194Line15Vers38
+DONE with  Num194Line15Vers38 . Execution time:  86.16594219207764  seconds
+*****
+***** Procesing: Num1141Line122Vers23
+DONE with  Num1141Line122Vers23 . Execution time:  32.27575206756592  seconds
+*****
+***** Procesing: Num1369Line151Vers4
+DONE with  Num1369Line151Vers4 . Execution time:  98.55735182762146  seconds
+*****
+***** Procesing: Num1229Line139Vers14
+DONE with  Num1229Line139Vers14 . Execution time:  78.97399687767029  seconds
+*****
+***** Procesing: Num1353Line150Vers1
+DONE with  Num1353Line150Vers1 . Execution time:  77.82004189491272  seconds
+*****
+***** Procesing: Num219Line16Vers25
+DONE with  Num219Line16Vers25 . Execution time:  68.68514585494995  seconds
+*****
+***** Procesing: Num214Line16Vers20
+DONE with  Num214Line16Vers20 . Execution time:  73.70811581611633  seconds
+*****
+***** Procesing: Num530Line82Vers13
+DONE with  Num530Line82Vers13 . Execution time:  88.70138597488403  seconds
+*****
+***** Procesing: Num528Line82Vers11
+DONE with  Num528Line82Vers11 . Execution time:  72.89247608184814  seconds
+*****
+***** Procesing: Num744Line101Vers20
+DONE with  Num744Line101Vers20 . Execution time:  75.56417298316956  seconds
+*****
+***** Procesing: Num126Line14Vers7
+DONE with  Num126Line14Vers7 . Execution time:  86.10903096199036  seconds
+*****
+***** Procesing: Num294Line20Vers45
+DONE with  Num294Line20Vers45 . Execution time:  87.10045886039734  seconds
+*****
+***** Procesing: Num1242Line139Vers27
+DONE with  Num1242Line139Vers27 . Execution time:  92.71146392822266  seconds
+*****
+***** Procesing: Num463Line61Vers12
+DONE with  Num463Line61Vers12 . Execution time:  79.72787404060364  seconds
+*****
+***** Procesing: Num1234Line139Vers19
+DONE with  Num1234Line139Vers19 . Execution time:  164.1051058769226  seconds
+*****
+***** Procesing: Num476Line63Vers12
+DONE with  Num476Line63Vers12 . Execution time:  71.8751437664032  seconds
+*****
+***** Procesing: Num822Line104Vers23
+DONE with  Num822Line104Vers23 . Execution time:  98.63426995277405  seconds
+*****
+***** Procesing: Num594Line85Vers16
+DONE with  Num594Line85Vers16 . Execution time:  69.71371579170227  seconds
+*****
+***** Procesing: Num1345Line149Vers4
+DONE with  Num1345Line149Vers4 . Execution time:  69.20851421356201  seconds
+*****
+***** Procesing: Num290Line20Vers41
+DONE with  Num290Line20Vers41 . Execution time:  80.72269868850708  seconds
+*****
+***** Procesing: Num1301Line143Vers3
+DONE with  Num1301Line143Vers3 . Execution time:  71.16717791557312  seconds
+*****
+***** Procesing: Num670Line87Vers17
+DONE with  Num670Line87Vers17 . Execution time:  25.715978860855103  seconds
+*****
+***** Procesing: Num751Line101Vers27
+DONE with  Num751Line101Vers27 . Execution time:  76.94577193260193  seconds
+*****
+***** Procesing: Num857Line112Vers31
+DONE with  Num857Line112Vers31 . Execution time:  106.01775097846985  seconds
+*****
+***** Procesing: Num48Line11Vers2
+DONE with  Num48Line11Vers2 . Execution time:  85.4731240272522  seconds
+*****
+***** Procesing: Num269Line20Vers20
+DONE with  Num269Line20Vers20 . Execution time:  94.32613611221313  seconds
+*****
+***** Procesing: Num1323Line146Vers9
+DONE with  Num1323Line146Vers9 . Execution time:  82.68558597564697  seconds
+*****
+***** Procesing: Num25Line8Vers12
+DONE with  Num25Line8Vers12 . Execution time:  79.9674220085144  seconds
+*****
+***** Procesing: Num1130Line122Vers12
+DONE with  Num1130Line122Vers12 . Execution time:  72.41563129425049  seconds
+*****
+***** Procesing: Num251Line20Vers2
+DONE with  Num251Line20Vers2 . Execution time:  122.96947312355042  seconds
+*****
+***** Procesing: Num526Line82Vers9
+DONE with  Num526Line82Vers9 . Execution time:  96.81848382949829  seconds
+*****
+***** Procesing: Num338Line34Vers10
+DONE with  Num338Line34Vers10 . Execution time:  142.02988171577454  seconds
+*****
+***** Procesing: Num367Line41Vers11
+DONE with  Num367Line41Vers11 . Execution time:  62.28120017051697  seconds
+*****
+***** Procesing: Num86Line13Vers4
+DONE with  Num86Line13Vers4 . Execution time:  60.08990693092346  seconds
+*****
+***** Procesing: Num13Line7Vers13
+DONE with  Num13Line7Vers13 . Execution time:  56.97079610824585  seconds
+*****
+***** Procesing: Num408Line42Vers11
+DONE with  Num408Line42Vers11 . Execution time:  58.50224494934082  seconds
+*****
+***** Procesing: Num350Line37Vers8
+DONE with  Num350Line37Vers8 . Execution time:  62.161720752716064  seconds
+*****
+***** Procesing: Num1200Line137Vers9
+DONE with  Num1200Line137Vers9 . Execution time:  46.091598987579346  seconds
+*****
+***** Procesing: Num529Line82Vers12
+DONE with  Num529Line82Vers12 . Execution time:  78.41775727272034  seconds
+*****
+***** Procesing: Num295Line20Vers46
+DONE with  Num295Line20Vers46 . Execution time:  83.3757860660553  seconds
+*****
+***** Procesing: Num1228Line139Vers13
+DONE with  Num1228Line139Vers13 . Execution time:  34.16775107383728  seconds
+*****
+***** Procesing: Num189Line15Vers33
+DONE with  Num189Line15Vers33 . Execution time:  861.6053791046143  seconds
+*****
+***** Procesing: Num462Line61Vers11
+DONE with  Num462Line61Vers11 . Execution time:  58.362650871276855  seconds
+*****
+***** Procesing: Num856Line112Vers30
+DONE with  Num856Line112Vers30 . Execution time:  64.03444409370422  seconds
+*****
+***** Procesing: Num291Line20Vers42
+DONE with  Num291Line20Vers42 . Execution time:  58.392273902893066  seconds
+*****
+***** Procesing: Num808Line104Vers9
+DONE with  Num808Line104Vers9 . Execution time:  58.81453227996826  seconds
+*****
+***** Procesing: Num895Line113Vers1
+DONE with  Num895Line113Vers1 . Execution time:  62.531879901885986  seconds
+*****
+***** Procesing: Num70Line11Vers24
+DONE with  Num70Line11Vers24 . Execution time:  117.39126396179199  seconds
+*****
+***** Procesing: Num824Line104Vers25
+DONE with  Num824Line104Vers25 . Execution time:  80.82949686050415  seconds
+*****
+***** Procesing: Num1167Line134Vers1
+DONE with  Num1167Line134Vers1 . Execution time:  77.33904314041138  seconds
+*****
+***** Procesing: Num1235Line139Vers20
+DONE with  Num1235Line139Vers20 . Execution time:  72.75251317024231  seconds
+*****
+***** Procesing: Num231Line16Vers37
+DONE with  Num231Line16Vers37 . Execution time:  71.65831089019775  seconds
+*****
+***** Procesing: Num340Line34Vers12
+DONE with  Num340Line34Vers12 . Execution time:  69.17898178100586  seconds
+*****
+***** Procesing: Num1188Line136Vers10
+DONE with  Num1188Line136Vers10 . Execution time:  24.886175394058228  seconds
+*****
+***** Procesing: Num430Line43Vers16
+DONE with  Num430Line43Vers16 . Execution time:  19.848886728286743  seconds
+*****
+***** Procesing: Num1362Line150Vers10
+DONE with  Num1362Line150Vers10 . Execution time:  61.928370237350464  seconds
+*****
+***** Procesing: Num428Line43Vers14
+DONE with  Num428Line43Vers14 . Execution time:  78.06703186035156  seconds
+*****
+***** Procesing: Num102Line13Vers20
+DONE with  Num102Line13Vers20 . Execution time:  61.597310066223145  seconds
+*****
+***** Procesing: Num425Line43Vers11
+DONE with  Num425Line43Vers11 . Execution time:  18.90222191810608  seconds
+*****
+***** Procesing: Num224Line16Vers30
+DONE with  Num224Line16Vers30 . Execution time:  59.935328006744385  seconds
+*****
+***** Procesing: Num229Line16Vers35
+DONE with  Num229Line16Vers35 . Execution time:  59.97224974632263  seconds
+*****
+***** Procesing: Num183Line15Vers27
+DONE with  Num183Line15Vers27 . Execution time:  57.63589787483215  seconds
+*****
+***** Procesing: Num274Line20Vers25
+DONE with  Num274Line20Vers25 . Execution time:  59.91422486305237  seconds
+*****
+***** Procesing: Num37Line9Vers11
+DONE with  Num37Line9Vers11 . Execution time:  56.449334144592285  seconds
+*****
+***** Procesing: Num1246Line140Vers4
+DONE with  Num1246Line140Vers4 . Execution time:  23.425426959991455  seconds
+*****
+***** Procesing: Num106Line13Vers24
+DONE with  Num106Line13Vers24 . Execution time:  58.3071448802948  seconds
+*****
+***** Procesing: Num1139Line122Vers21
+DONE with  Num1139Line122Vers21 . Execution time:  21.050687074661255  seconds
+*****
+***** Procesing: Num24Line8Vers11
+DONE with  Num24Line8Vers11 . Execution time:  18.738412141799927  seconds
+*****
+***** Procesing: Num250Line20Vers1
+DONE with  Num250Line20Vers1 . Execution time:  58.43869423866272  seconds
+*****
+***** Procesing: Num223Line16Vers29
+DONE with  Num223Line16Vers29 . Execution time:  61.276962995529175  seconds
+*****
+***** Procesing: Num177Line15Vers21
+DONE with  Num177Line15Vers21 . Execution time:  59.702271938323975  seconds
+*****
+***** Procesing: Num1374Line151Vers9
+DONE with  Num1374Line151Vers9 . Execution time:  58.88162302970886  seconds
+*****
+***** Procesing: Num327Line33Vers6
+DONE with  Num327Line33Vers6 . Execution time:  18.80854892730713  seconds
+*****
+***** Procesing: Num204Line16Vers10
+DONE with  Num204Line16Vers10 . Execution time:  58.20688319206238  seconds
+*****
+***** Procesing: Num270Line20Vers21
+DONE with  Num270Line20Vers21 . Execution time:  59.90763020515442  seconds
+*****
+***** Procesing: Num299Line21Vers4
+DONE with  Num299Line21Vers4 . Execution time:  60.711637020111084  seconds
+*****
+***** Procesing: Num1336Line146Vers22
+DONE with  Num1336Line146Vers22 . Execution time:  59.53306579589844  seconds
+*****
+***** Procesing: Num763Line101Vers39
+DONE with  Num763Line101Vers39 . Execution time:  56.27893686294556  seconds
+*****
+***** Procesing: Num289Line20Vers40
+DONE with  Num289Line20Vers40 . Execution time:  61.50047183036804  seconds
+*****
+***** Procesing: Num1232Line139Vers17
+DONE with  Num1232Line139Vers17 . Execution time:  62.38248300552368  seconds
+*****
+***** Procesing: Num669Line87Vers16
+
+Aborted!
+(base) alduck@alduck MutationAnalisys % python3 run_dot_m_files_MR3_sumError.py -i '/Users/alduck/Documents/Github/mt_industrial_usecase/SpecialIssue_PROFES/MutationAnalisys/not_crased_mutated_files_all_inputs/*' -m 'MR3_sum_err.m'
+***** Procesing: Num84Line13Vers2
+Num84Line13Vers2 is ready
+***** Procesing: Num232Line16Vers38
+Num232Line16Vers38 is ready
+***** Procesing: Num1230Line139Vers15
+Num1230Line139Vers15 is ready
+***** Procesing: Num46Line10Vers7
+Num46Line10Vers7 is ready
+***** Procesing: Num117Line13Vers35
+Num117Line13Vers35 is ready
+***** Procesing: Num161Line15Vers5
+Num161Line15Vers5 is ready
+***** Procesing: Num336Line34Vers8
+Num336Line34Vers8 is ready
+***** Procesing: Num324Line33Vers3
+Num324Line33Vers3 is ready
+***** Procesing: Num192Line15Vers36
+Num192Line15Vers36 is ready
+***** Procesing: Num446Line60Vers1
+Num446Line60Vers1 is ready
+***** Procesing: Num920Line114Vers25
+Num920Line114Vers25 is ready
+***** Procesing: Num1297Line141Vers9
+Num1297Line141Vers9 is ready
+***** Procesing: Num774Line101Vers50
+Num774Line101Vers50 is ready
+***** Procesing: Num113Line13Vers31
+Num113Line13Vers31 is ready
+***** Procesing: Num253Line20Vers4
+Num253Line20Vers4 is ready
+***** Procesing: Num1343Line149Vers2
+Num1343Line149Vers2 is ready
+***** Procesing: Num419Line43Vers5
+Num419Line43Vers5 is ready
+***** Procesing: Num1219Line139Vers4
+Num1219Line139Vers4 is ready
+***** Procesing: Num1072Line118Vers4
+Num1072Line118Vers4 is ready
+***** Procesing: Num1145Line122Vers27
+Num1145Line122Vers27 is ready
+***** Procesing: Num108Line13Vers26
+Num108Line13Vers26 is ready
+***** Procesing: Num1309Line144Vers8
+Num1309Line144Vers8 is ready
+***** Procesing: Num165Line15Vers9
+Num165Line15Vers9 is ready
+***** Procesing: Num105Line13Vers23
+Num105Line13Vers23 is ready
+***** Procesing: Num179Line15Vers23
+Num179Line15Vers23 is ready
+***** Procesing: Num1334Line146Vers20
+Num1334Line146Vers20 is ready
+***** Procesing: Num292Line20Vers43
+Num292Line20Vers43 is ready
+***** Procesing: Num678Line88Vers8
+Num678Line88Vers8 is ready
+***** Procesing: Num461Line61Vers10
+Num461Line61Vers10 is ready
+***** Procesing: Num474Line63Vers10
+Num474Line63Vers10 is ready
+***** Procesing: Num1304Line144Vers3
+Num1304Line144Vers3 is ready
+***** Procesing: Num520Line82Vers3
+Num520Line82Vers3 is ready
+***** Procesing: Num810Line104Vers11
+Num810Line104Vers11 is ready
+***** Procesing: Num452Line61Vers1
+Num452Line61Vers1 is ready
+***** Procesing: Num266Line20Vers17
+Num266Line20Vers17 is ready
+***** Procesing: Num1237Line139Vers22
+Num1237Line139Vers22 is ready
+***** Procesing: Num248Line19Vers8
+Num248Line19Vers8 is ready
+***** Procesing: Num407Line42Vers10
+Num407Line42Vers10 is ready
+***** Procesing: Num1111Line119Vers1
+Num1111Line119Vers1 is ready
+***** Procesing: Num39Line9Vers13
+Num39Line9Vers13 is ready
+***** Procesing: Num1293Line141Vers5
+Num1293Line141Vers5 is ready
+***** Procesing: Num826Line104Vers27
+Num826Line104Vers27 is ready
+***** Procesing: Num262Line20Vers13
+Num262Line20Vers13 is ready
+***** Procesing: Num510Line72Vers12
+Num510Line72Vers12 is ready
+***** Procesing: Num216Line16Vers22
+Num216Line16Vers22 is ready
+***** Procesing: Num91Line13Vers9
+Num91Line13Vers9 is ready
+***** Procesing: Num202Line16Vers8
+Num202Line16Vers8 is ready
+***** Procesing: Num524Line82Vers7
+Num524Line82Vers7 is ready
+***** Procesing: Num1329Line146Vers15
+Num1329Line146Vers15 is ready
+***** Procesing: Num569Line84Vers17
+Num569Line84Vers17 is ready
+***** Procesing: Num101Line13Vers19
+Num101Line13Vers19 is ready
+***** Procesing: Num280Line20Vers31
+Num280Line20Vers31 is ready
+***** Procesing: Num139Line14Vers20
+Num139Line14Vers20 is ready
+***** Procesing: Num187Line15Vers31
+Num187Line15Vers31 is ready
+***** Procesing: Num144Line14Vers25
+Num144Line14Vers25 is ready
+***** Procesing: Num1380Line152Vers4
+Num1380Line152Vers4 is ready
+***** Procesing: Num1333Line146Vers19
+Num1333Line146Vers19 is ready
+***** Procesing: Num220Line16Vers26
+Num220Line16Vers26 is ready
+***** Procesing: Num379Line41Vers23
+Num379Line41Vers23 is ready
+***** Procesing: Num284Line20Vers35
+Num284Line20Vers35 is ready
+***** Procesing: Num400Line42Vers3
+Num400Line42Vers3 is ready
+***** Procesing: Num23Line8Vers10
+Num23Line8Vers10 is ready
+***** Procesing: Num140Line14Vers21
+Num140Line14Vers21 is ready
+***** Procesing: Num111Line13Vers29
+Num111Line13Vers29 is ready
+***** Procesing: Num1340Line147Vers1
+Num1340Line147Vers1 is ready
+***** Procesing: Num58Line11Vers12
+Num58Line11Vers12 is ready
+***** Procesing: Num1251Line140Vers9
+Num1251Line140Vers9 is ready
+***** Procesing: Num1310Line144Vers9
+Num1310Line144Vers9 is ready
+***** Procesing: Num78Line11Vers32
+Num78Line11Vers32 is ready
+***** Procesing: Num682Line88Vers12
+Num682Line88Vers12 is ready
+***** Procesing: Num674Line88Vers4
+Num674Line88Vers4 is ready
+***** Procesing: Num1332Line146Vers18
+Num1332Line146Vers18 is ready
+***** Procesing: Num153Line14Vers34
+Num153Line14Vers34 is ready
+***** Procesing: Num1240Line139Vers25
+Num1240Line139Vers25 is ready
+***** Procesing: Num807Line104Vers8
+Num807Line104Vers8 is ready
+***** Procesing: Num1154Line122Vers36
+Num1154Line122Vers36 is ready
+***** Procesing: Num226Line16Vers32
+Num226Line16Vers32 is ready
+***** Procesing: Num276Line20Vers27
+Num276Line20Vers27 is ready
+***** Procesing: Num281Line20Vers32
+Num281Line20Vers32 is ready
+***** Procesing: Num181Line15Vers25
+Num181Line15Vers25 is ready
+***** Procesing: Num1328Line146Vers14
+Num1328Line146Vers14 is ready
+***** Procesing: Num145Line14Vers26
+Num145Line14Vers26 is ready
+***** Procesing: Num427Line43Vers13
+Num427Line43Vers13 is ready
+***** Procesing: Num67Line11Vers21
+Num67Line11Vers21 is ready
+***** Procesing: Num22Line8Vers9
+Num22Line8Vers9 is ready
+***** Procesing: Num285Line20Vers36
+Num285Line20Vers36 is ready
+***** Procesing: Num272Line20Vers23
+Num272Line20Vers23 is ready
+***** Procesing: Num820Line104Vers21
+Num820Line104Vers21 is ready
+***** Procesing: Num141Line14Vers22
+Num141Line14Vers22 is ready
+***** Procesing: Num157Line15Vers1
+Num157Line15Vers1 is ready
+***** Procesing: Num343Line37Vers1
+Num343Line37Vers1 is ready
+***** Procesing: Num1335Line146Vers21
+Num1335Line146Vers21 is ready
+***** Procesing: Num422Line43Vers8
+Num422Line43Vers8 is ready
+***** Procesing: Num1354Line150Vers2
+Num1354Line150Vers2 is ready
+***** Procesing: Num717Line92Vers7
+Num717Line92Vers7 is ready
+***** Procesing: Num798Line103Vers8
+Num798Line103Vers8 is ready
+***** Procesing: Num10Line7Vers10
+Num10Line7Vers10 is ready
+***** Procesing: Num684Line90Vers1
+Num684Line90Vers1 is ready
+***** Procesing: Num1378Line152Vers2
+Num1378Line152Vers2 is ready
+***** Procesing: Num1342Line149Vers1
+Num1342Line149Vers1 is ready
+***** Procesing: Num707Line90Vers24
+Num707Line90Vers24 is ready
+***** Procesing: Num1299Line143Vers1
+Num1299Line143Vers1 is ready
+***** Procesing: Num775Line101Vers51
+Num775Line101Vers51 is ready
+***** Procesing: Num198Line16Vers4
+Num198Line16Vers4 is ready
+***** Procesing: Num1311Line144Vers10
+Num1311Line144Vers10 is ready
+***** Procesing: Num185Line15Vers29
+Num185Line15Vers29 is ready
+***** Procesing: Num146Line14Vers27
+Num146Line14Vers27 is ready
+***** Procesing: Num809Line104Vers10
+Num809Line104Vers10 is ready
+***** Procesing: Num1313Line144Vers12
+Num1313Line144Vers12 is ready
+***** Procesing: Num410Line42Vers13
+Num410Line42Vers13 is ready
+***** Procesing: Num1233Line139Vers18
+Num1233Line139Vers18 is ready
+***** Procesing: Num275Line20Vers26
+Num275Line20Vers26 is ready
+***** Procesing: Num780Line101Vers56
+Num780Line101Vers56 is ready
+***** Procesing: Num439Line51Vers3
+Num439Line51Vers3 is ready
+***** Procesing: Num142Line14Vers23
+Num142Line14Vers23 is ready
+***** Procesing: Num464Line62Vers1
+Num464Line62Vers1 is ready
+***** Procesing: Num414Line42Vers17
+Num414Line42Vers17 is ready
+***** Procesing: Num64Line11Vers18
+Num64Line11Vers18 is ready
+***** Procesing: Num762Line101Vers38
+Num762Line101Vers38 is ready
+***** Procesing: Num286Line20Vers37
+Num286Line20Vers37 is ready
+***** Procesing: Num271Line20Vers22
+Num271Line20Vers22 is ready
+***** Procesing: Num435Line43Vers21
+Num435Line43Vers21 is ready
+***** Procesing: Num1337Line146Vers23
+Num1337Line146Vers23 is ready
+***** Procesing: Num406Line42Vers9
+Num406Line42Vers9 is ready
+***** Procesing: Num264Line20Vers15
+Num264Line20Vers15 is ready
+***** Procesing: Num1357Line150Vers5
+Num1357Line150Vers5 is ready
+***** Procesing: Num194Line15Vers38
+Num194Line15Vers38 is ready
+***** Procesing: Num1141Line122Vers23
+Num1141Line122Vers23 is ready
+***** Procesing: Num1369Line151Vers4
+Num1369Line151Vers4 is ready
+***** Procesing: Num1229Line139Vers14
+Num1229Line139Vers14 is ready
+***** Procesing: Num1353Line150Vers1
+Num1353Line150Vers1 is ready
+***** Procesing: Num219Line16Vers25
+Num219Line16Vers25 is ready
+***** Procesing: Num214Line16Vers20
+Num214Line16Vers20 is ready
+***** Procesing: Num530Line82Vers13
+Num530Line82Vers13 is ready
+***** Procesing: Num528Line82Vers11
+Num528Line82Vers11 is ready
+***** Procesing: Num744Line101Vers20
+Num744Line101Vers20 is ready
+***** Procesing: Num126Line14Vers7
+Num126Line14Vers7 is ready
+***** Procesing: Num294Line20Vers45
+Num294Line20Vers45 is ready
+***** Procesing: Num1242Line139Vers27
+Num1242Line139Vers27 is ready
+***** Procesing: Num463Line61Vers12
+Num463Line61Vers12 is ready
+***** Procesing: Num1234Line139Vers19
+Num1234Line139Vers19 is ready
+***** Procesing: Num476Line63Vers12
+Num476Line63Vers12 is ready
+***** Procesing: Num822Line104Vers23
+Num822Line104Vers23 is ready
+***** Procesing: Num594Line85Vers16
+Num594Line85Vers16 is ready
+***** Procesing: Num1345Line149Vers4
+Num1345Line149Vers4 is ready
+***** Procesing: Num290Line20Vers41
+Num290Line20Vers41 is ready
+***** Procesing: Num1301Line143Vers3
+Num1301Line143Vers3 is ready
+***** Procesing: Num670Line87Vers17
+Num670Line87Vers17 is ready
+***** Procesing: Num751Line101Vers27
+Num751Line101Vers27 is ready
+***** Procesing: Num857Line112Vers31
+Num857Line112Vers31 is ready
+***** Procesing: Num48Line11Vers2
+Num48Line11Vers2 is ready
+***** Procesing: Num269Line20Vers20
+Num269Line20Vers20 is ready
+***** Procesing: Num1323Line146Vers9
+Num1323Line146Vers9 is ready
+***** Procesing: Num25Line8Vers12
+Num25Line8Vers12 is ready
+***** Procesing: Num1130Line122Vers12
+Num1130Line122Vers12 is ready
+***** Procesing: Num251Line20Vers2
+Num251Line20Vers2 is ready
+***** Procesing: Num526Line82Vers9
+Num526Line82Vers9 is ready
+***** Procesing: Num338Line34Vers10
+Num338Line34Vers10 is ready
+***** Procesing: Num367Line41Vers11
+Num367Line41Vers11 is ready
+***** Procesing: Num86Line13Vers4
+Num86Line13Vers4 is ready
+***** Procesing: Num13Line7Vers13
+Num13Line7Vers13 is ready
+***** Procesing: Num408Line42Vers11
+Num408Line42Vers11 is ready
+***** Procesing: Num350Line37Vers8
+Num350Line37Vers8 is ready
+***** Procesing: Num1200Line137Vers9
+Num1200Line137Vers9 is ready
+***** Procesing: Num529Line82Vers12
+Num529Line82Vers12 is ready
+***** Procesing: Num295Line20Vers46
+Num295Line20Vers46 is ready
+***** Procesing: Num1228Line139Vers13
+Num1228Line139Vers13 is ready
+***** Procesing: Num189Line15Vers33
+Num189Line15Vers33 is ready
+***** Procesing: Num462Line61Vers11
+Num462Line61Vers11 is ready
+***** Procesing: Num856Line112Vers30
+Num856Line112Vers30 is ready
+***** Procesing: Num291Line20Vers42
+Num291Line20Vers42 is ready
+***** Procesing: Num808Line104Vers9
+Num808Line104Vers9 is ready
+***** Procesing: Num895Line113Vers1
+Num895Line113Vers1 is ready
+***** Procesing: Num70Line11Vers24
+Num70Line11Vers24 is ready
+***** Procesing: Num824Line104Vers25
+Num824Line104Vers25 is ready
+***** Procesing: Num1167Line134Vers1
+Num1167Line134Vers1 is ready
+***** Procesing: Num1235Line139Vers20
+Num1235Line139Vers20 is ready
+***** Procesing: Num231Line16Vers37
+Num231Line16Vers37 is ready
+***** Procesing: Num340Line34Vers12
+Num340Line34Vers12 is ready
+***** Procesing: Num1188Line136Vers10
+Num1188Line136Vers10 is ready
+***** Procesing: Num430Line43Vers16
+Num430Line43Vers16 is ready
+***** Procesing: Num1362Line150Vers10
+Num1362Line150Vers10 is ready
+***** Procesing: Num428Line43Vers14
+Num428Line43Vers14 is ready
+***** Procesing: Num102Line13Vers20
+Num102Line13Vers20 is ready
+***** Procesing: Num425Line43Vers11
+Num425Line43Vers11 is ready
+***** Procesing: Num224Line16Vers30
+Num224Line16Vers30 is ready
+***** Procesing: Num229Line16Vers35
+Num229Line16Vers35 is ready
+***** Procesing: Num183Line15Vers27
+Num183Line15Vers27 is ready
+***** Procesing: Num274Line20Vers25
+Num274Line20Vers25 is ready
+***** Procesing: Num37Line9Vers11
+Num37Line9Vers11 is ready
+***** Procesing: Num1246Line140Vers4
+Num1246Line140Vers4 is ready
+***** Procesing: Num106Line13Vers24
+Num106Line13Vers24 is ready
+***** Procesing: Num1139Line122Vers21
+Num1139Line122Vers21 is ready
+***** Procesing: Num24Line8Vers11
+Num24Line8Vers11 is ready
+***** Procesing: Num250Line20Vers1
+Num250Line20Vers1 is ready
+***** Procesing: Num223Line16Vers29
+Num223Line16Vers29 is ready
+***** Procesing: Num177Line15Vers21
+Num177Line15Vers21 is ready
+***** Procesing: Num1374Line151Vers9
+Num1374Line151Vers9 is ready
+***** Procesing: Num327Line33Vers6
+Num327Line33Vers6 is ready
+***** Procesing: Num204Line16Vers10
+Num204Line16Vers10 is ready
+***** Procesing: Num270Line20Vers21
+Num270Line20Vers21 is ready
+***** Procesing: Num299Line21Vers4
+Num299Line21Vers4 is ready
+***** Procesing: Num1336Line146Vers22
+Num1336Line146Vers22 is ready
+***** Procesing: Num763Line101Vers39
+Num763Line101Vers39 is ready
+***** Procesing: Num289Line20Vers40
+Num289Line20Vers40 is ready
+***** Procesing: Num1232Line139Vers17
+Num1232Line139Vers17 is ready
+***** Procesing: Num669Line87Vers16
+
+Aborted!
+(base) alduck@alduck MutationAnalisys % python3 run_dot_m_files_MR3_sumError.py -i '/Users/alduck/Documents/Github/mt_industrial_usecase/SpecialIssue_PROFES/MutationAnalisys/not_crased_mutated_files_all_inputs/*' -m 'MR3_sum_err.m'
+***** Procesing: Num84Line13Vers2
+Num84Line13Vers2 is ready
+***** Procesing: Num232Line16Vers38
+Num232Line16Vers38 is ready
+***** Procesing: Num1230Line139Vers15
+Num1230Line139Vers15 is ready
+***** Procesing: Num46Line10Vers7
+Num46Line10Vers7 is ready
+***** Procesing: Num117Line13Vers35
+Num117Line13Vers35 is ready
+***** Procesing: Num161Line15Vers5
+Num161Line15Vers5 is ready
+***** Procesing: Num336Line34Vers8
+Num336Line34Vers8 is ready
+***** Procesing: Num324Line33Vers3
+Num324Line33Vers3 is ready
+***** Procesing: Num192Line15Vers36
+Num192Line15Vers36 is ready
+***** Procesing: Num446Line60Vers1
+Num446Line60Vers1 is ready
+***** Procesing: Num920Line114Vers25
+Num920Line114Vers25 is ready
+***** Procesing: Num1297Line141Vers9
+Num1297Line141Vers9 is ready
+***** Procesing: Num774Line101Vers50
+Num774Line101Vers50 is ready
+***** Procesing: Num113Line13Vers31
+Num113Line13Vers31 is ready
+***** Procesing: Num253Line20Vers4
+Num253Line20Vers4 is ready
+***** Procesing: Num1343Line149Vers2
+Num1343Line149Vers2 is ready
+***** Procesing: Num419Line43Vers5
+Num419Line43Vers5 is ready
+***** Procesing: Num1219Line139Vers4
+Num1219Line139Vers4 is ready
+***** Procesing: Num1072Line118Vers4
+Num1072Line118Vers4 is ready
+***** Procesing: Num1145Line122Vers27
+Num1145Line122Vers27 is ready
+***** Procesing: Num108Line13Vers26
+Num108Line13Vers26 is ready
+***** Procesing: Num1309Line144Vers8
+Num1309Line144Vers8 is ready
+***** Procesing: Num165Line15Vers9
+Num165Line15Vers9 is ready
+***** Procesing: Num105Line13Vers23
+Num105Line13Vers23 is ready
+***** Procesing: Num179Line15Vers23
+Num179Line15Vers23 is ready
+***** Procesing: Num1334Line146Vers20
+Num1334Line146Vers20 is ready
+***** Procesing: Num292Line20Vers43
+Num292Line20Vers43 is ready
+***** Procesing: Num678Line88Vers8
+Num678Line88Vers8 is ready
+***** Procesing: Num461Line61Vers10
+Num461Line61Vers10 is ready
+***** Procesing: Num474Line63Vers10
+Num474Line63Vers10 is ready
+***** Procesing: Num1304Line144Vers3
+Num1304Line144Vers3 is ready
+***** Procesing: Num520Line82Vers3
+Num520Line82Vers3 is ready
+***** Procesing: Num810Line104Vers11
+Num810Line104Vers11 is ready
+***** Procesing: Num452Line61Vers1
+Num452Line61Vers1 is ready
+***** Procesing: Num266Line20Vers17
+Num266Line20Vers17 is ready
+***** Procesing: Num1237Line139Vers22
+Num1237Line139Vers22 is ready
+***** Procesing: Num248Line19Vers8
+Num248Line19Vers8 is ready
+***** Procesing: Num407Line42Vers10
+Num407Line42Vers10 is ready
+***** Procesing: Num1111Line119Vers1
+Num1111Line119Vers1 is ready
+***** Procesing: Num39Line9Vers13
+Num39Line9Vers13 is ready
+***** Procesing: Num1293Line141Vers5
+Num1293Line141Vers5 is ready
+***** Procesing: Num826Line104Vers27
+Num826Line104Vers27 is ready
+***** Procesing: Num262Line20Vers13
+Num262Line20Vers13 is ready
+***** Procesing: Num510Line72Vers12
+Num510Line72Vers12 is ready
+***** Procesing: Num216Line16Vers22
+Num216Line16Vers22 is ready
+***** Procesing: Num91Line13Vers9
+Num91Line13Vers9 is ready
+***** Procesing: Num202Line16Vers8
+Num202Line16Vers8 is ready
+***** Procesing: Num524Line82Vers7
+Num524Line82Vers7 is ready
+***** Procesing: Num1329Line146Vers15
+Num1329Line146Vers15 is ready
+***** Procesing: Num569Line84Vers17
+Num569Line84Vers17 is ready
+***** Procesing: Num101Line13Vers19
+Num101Line13Vers19 is ready
+***** Procesing: Num280Line20Vers31
+Num280Line20Vers31 is ready
+***** Procesing: Num139Line14Vers20
+Num139Line14Vers20 is ready
+***** Procesing: Num187Line15Vers31
+Num187Line15Vers31 is ready
+***** Procesing: Num144Line14Vers25
+Num144Line14Vers25 is ready
+***** Procesing: Num1380Line152Vers4
+Num1380Line152Vers4 is ready
+***** Procesing: Num1333Line146Vers19
+Num1333Line146Vers19 is ready
+***** Procesing: Num220Line16Vers26
+Num220Line16Vers26 is ready
+***** Procesing: Num379Line41Vers23
+Num379Line41Vers23 is ready
+***** Procesing: Num284Line20Vers35
+Num284Line20Vers35 is ready
+***** Procesing: Num400Line42Vers3
+Num400Line42Vers3 is ready
+***** Procesing: Num23Line8Vers10
+Num23Line8Vers10 is ready
+***** Procesing: Num140Line14Vers21
+Num140Line14Vers21 is ready
+***** Procesing: Num111Line13Vers29
+Num111Line13Vers29 is ready
+***** Procesing: Num1340Line147Vers1
+Num1340Line147Vers1 is ready
+***** Procesing: Num58Line11Vers12
+Num58Line11Vers12 is ready
+***** Procesing: Num1251Line140Vers9
+Num1251Line140Vers9 is ready
+***** Procesing: Num1310Line144Vers9
+Num1310Line144Vers9 is ready
+***** Procesing: Num78Line11Vers32
+Num78Line11Vers32 is ready
+***** Procesing: Num682Line88Vers12
+Num682Line88Vers12 is ready
+***** Procesing: Num674Line88Vers4
+Num674Line88Vers4 is ready
+***** Procesing: Num1332Line146Vers18
+Num1332Line146Vers18 is ready
+***** Procesing: Num153Line14Vers34
+Num153Line14Vers34 is ready
+***** Procesing: Num1240Line139Vers25
+Num1240Line139Vers25 is ready
+***** Procesing: Num807Line104Vers8
+Num807Line104Vers8 is ready
+***** Procesing: Num1154Line122Vers36
+Num1154Line122Vers36 is ready
+***** Procesing: Num226Line16Vers32
+Num226Line16Vers32 is ready
+***** Procesing: Num276Line20Vers27
+Num276Line20Vers27 is ready
+***** Procesing: Num281Line20Vers32
+Num281Line20Vers32 is ready
+***** Procesing: Num181Line15Vers25
+Num181Line15Vers25 is ready
+***** Procesing: Num1328Line146Vers14
+Num1328Line146Vers14 is ready
+***** Procesing: Num145Line14Vers26
+Num145Line14Vers26 is ready
+***** Procesing: Num427Line43Vers13
+Num427Line43Vers13 is ready
+***** Procesing: Num67Line11Vers21
+Num67Line11Vers21 is ready
+***** Procesing: Num22Line8Vers9
+Num22Line8Vers9 is ready
+***** Procesing: Num285Line20Vers36
+Num285Line20Vers36 is ready
+***** Procesing: Num272Line20Vers23
+Num272Line20Vers23 is ready
+***** Procesing: Num820Line104Vers21
+Num820Line104Vers21 is ready
+***** Procesing: Num141Line14Vers22
+Num141Line14Vers22 is ready
+***** Procesing: Num157Line15Vers1
+Num157Line15Vers1 is ready
+***** Procesing: Num343Line37Vers1
+Num343Line37Vers1 is ready
+***** Procesing: Num1335Line146Vers21
+Num1335Line146Vers21 is ready
+***** Procesing: Num422Line43Vers8
+Num422Line43Vers8 is ready
+***** Procesing: Num1354Line150Vers2
+Num1354Line150Vers2 is ready
+***** Procesing: Num717Line92Vers7
+Num717Line92Vers7 is ready
+***** Procesing: Num798Line103Vers8
+Num798Line103Vers8 is ready
+***** Procesing: Num10Line7Vers10
+Num10Line7Vers10 is ready
+***** Procesing: Num684Line90Vers1
+Num684Line90Vers1 is ready
+***** Procesing: Num1378Line152Vers2
+Num1378Line152Vers2 is ready
+***** Procesing: Num1342Line149Vers1
+Num1342Line149Vers1 is ready
+***** Procesing: Num707Line90Vers24
+Num707Line90Vers24 is ready
+***** Procesing: Num1299Line143Vers1
+Num1299Line143Vers1 is ready
+***** Procesing: Num775Line101Vers51
+Num775Line101Vers51 is ready
+***** Procesing: Num198Line16Vers4
+Num198Line16Vers4 is ready
+***** Procesing: Num1311Line144Vers10
+Num1311Line144Vers10 is ready
+***** Procesing: Num185Line15Vers29
+Num185Line15Vers29 is ready
+***** Procesing: Num146Line14Vers27
+Num146Line14Vers27 is ready
+***** Procesing: Num809Line104Vers10
+Num809Line104Vers10 is ready
+***** Procesing: Num1313Line144Vers12
+Num1313Line144Vers12 is ready
+***** Procesing: Num410Line42Vers13
+Num410Line42Vers13 is ready
+***** Procesing: Num1233Line139Vers18
+Num1233Line139Vers18 is ready
+***** Procesing: Num275Line20Vers26
+Num275Line20Vers26 is ready
+***** Procesing: Num780Line101Vers56
+Num780Line101Vers56 is ready
+***** Procesing: Num439Line51Vers3
+Num439Line51Vers3 is ready
+***** Procesing: Num142Line14Vers23
+Num142Line14Vers23 is ready
+***** Procesing: Num464Line62Vers1
+Num464Line62Vers1 is ready
+***** Procesing: Num414Line42Vers17
+Num414Line42Vers17 is ready
+***** Procesing: Num64Line11Vers18
+Num64Line11Vers18 is ready
+***** Procesing: Num762Line101Vers38
+Num762Line101Vers38 is ready
+***** Procesing: Num286Line20Vers37
+Num286Line20Vers37 is ready
+***** Procesing: Num271Line20Vers22
+Num271Line20Vers22 is ready
+***** Procesing: Num435Line43Vers21
+Num435Line43Vers21 is ready
+***** Procesing: Num1337Line146Vers23
+Num1337Line146Vers23 is ready
+***** Procesing: Num406Line42Vers9
+Num406Line42Vers9 is ready
+***** Procesing: Num264Line20Vers15
+Num264Line20Vers15 is ready
+***** Procesing: Num1357Line150Vers5
+Num1357Line150Vers5 is ready
+***** Procesing: Num194Line15Vers38
+Num194Line15Vers38 is ready
+***** Procesing: Num1141Line122Vers23
+Num1141Line122Vers23 is ready
+***** Procesing: Num1369Line151Vers4
+Num1369Line151Vers4 is ready
+***** Procesing: Num1229Line139Vers14
+Num1229Line139Vers14 is ready
+***** Procesing: Num1353Line150Vers1
+Num1353Line150Vers1 is ready
+***** Procesing: Num219Line16Vers25
+Num219Line16Vers25 is ready
+***** Procesing: Num214Line16Vers20
+Num214Line16Vers20 is ready
+***** Procesing: Num530Line82Vers13
+Num530Line82Vers13 is ready
+***** Procesing: Num528Line82Vers11
+Num528Line82Vers11 is ready
+***** Procesing: Num744Line101Vers20
+Num744Line101Vers20 is ready
+***** Procesing: Num126Line14Vers7
+Num126Line14Vers7 is ready
+***** Procesing: Num294Line20Vers45
+Num294Line20Vers45 is ready
+***** Procesing: Num1242Line139Vers27
+Num1242Line139Vers27 is ready
+***** Procesing: Num463Line61Vers12
+Num463Line61Vers12 is ready
+***** Procesing: Num1234Line139Vers19
+Num1234Line139Vers19 is ready
+***** Procesing: Num476Line63Vers12
+Num476Line63Vers12 is ready
+***** Procesing: Num822Line104Vers23
+Num822Line104Vers23 is ready
+***** Procesing: Num594Line85Vers16
+Num594Line85Vers16 is ready
+***** Procesing: Num1345Line149Vers4
+Num1345Line149Vers4 is ready
+***** Procesing: Num290Line20Vers41
+Num290Line20Vers41 is ready
+***** Procesing: Num1301Line143Vers3
+Num1301Line143Vers3 is ready
+***** Procesing: Num670Line87Vers17
+Num670Line87Vers17 is ready
+***** Procesing: Num751Line101Vers27
+Num751Line101Vers27 is ready
+***** Procesing: Num857Line112Vers31
+Num857Line112Vers31 is ready
+***** Procesing: Num48Line11Vers2
+Num48Line11Vers2 is ready
+***** Procesing: Num269Line20Vers20
+Num269Line20Vers20 is ready
+***** Procesing: Num1323Line146Vers9
+Num1323Line146Vers9 is ready
+***** Procesing: Num25Line8Vers12
+Num25Line8Vers12 is ready
+***** Procesing: Num1130Line122Vers12
+Num1130Line122Vers12 is ready
+***** Procesing: Num251Line20Vers2
+Num251Line20Vers2 is ready
+***** Procesing: Num526Line82Vers9
+Num526Line82Vers9 is ready
+***** Procesing: Num338Line34Vers10
+Num338Line34Vers10 is ready
+***** Procesing: Num367Line41Vers11
+Num367Line41Vers11 is ready
+***** Procesing: Num86Line13Vers4
+Num86Line13Vers4 is ready
+***** Procesing: Num13Line7Vers13
+Num13Line7Vers13 is ready
+***** Procesing: Num408Line42Vers11
+Num408Line42Vers11 is ready
+***** Procesing: Num350Line37Vers8
+Num350Line37Vers8 is ready
+***** Procesing: Num1200Line137Vers9
+Num1200Line137Vers9 is ready
+***** Procesing: Num529Line82Vers12
+Num529Line82Vers12 is ready
+***** Procesing: Num295Line20Vers46
+Num295Line20Vers46 is ready
+***** Procesing: Num1228Line139Vers13
+Num1228Line139Vers13 is ready
+***** Procesing: Num189Line15Vers33
+Num189Line15Vers33 is ready
+***** Procesing: Num462Line61Vers11
+Num462Line61Vers11 is ready
+***** Procesing: Num856Line112Vers30
+Num856Line112Vers30 is ready
+***** Procesing: Num291Line20Vers42
+Num291Line20Vers42 is ready
+***** Procesing: Num808Line104Vers9
+Num808Line104Vers9 is ready
+***** Procesing: Num895Line113Vers1
+Num895Line113Vers1 is ready
+***** Procesing: Num70Line11Vers24
+Num70Line11Vers24 is ready
+***** Procesing: Num824Line104Vers25
+Num824Line104Vers25 is ready
+***** Procesing: Num1167Line134Vers1
+Num1167Line134Vers1 is ready
+***** Procesing: Num1235Line139Vers20
+Num1235Line139Vers20 is ready
+***** Procesing: Num231Line16Vers37
+Num231Line16Vers37 is ready
+***** Procesing: Num340Line34Vers12
+Num340Line34Vers12 is ready
+***** Procesing: Num1188Line136Vers10
+Num1188Line136Vers10 is ready
+***** Procesing: Num430Line43Vers16
+Num430Line43Vers16 is ready
+***** Procesing: Num1362Line150Vers10
+Num1362Line150Vers10 is ready
+***** Procesing: Num428Line43Vers14
+Num428Line43Vers14 is ready
+***** Procesing: Num102Line13Vers20
+Num102Line13Vers20 is ready
+***** Procesing: Num425Line43Vers11
+Num425Line43Vers11 is ready
+***** Procesing: Num224Line16Vers30
+Num224Line16Vers30 is ready
+***** Procesing: Num229Line16Vers35
+Num229Line16Vers35 is ready
+***** Procesing: Num183Line15Vers27
+Num183Line15Vers27 is ready
+***** Procesing: Num274Line20Vers25
+Num274Line20Vers25 is ready
+***** Procesing: Num37Line9Vers11
+Num37Line9Vers11 is ready
+***** Procesing: Num1246Line140Vers4
+Num1246Line140Vers4 is ready
+***** Procesing: Num106Line13Vers24
+Num106Line13Vers24 is ready
+***** Procesing: Num1139Line122Vers21
+Num1139Line122Vers21 is ready
+***** Procesing: Num24Line8Vers11
+Num24Line8Vers11 is ready
+***** Procesing: Num250Line20Vers1
+Num250Line20Vers1 is ready
+***** Procesing: Num223Line16Vers29
+Num223Line16Vers29 is ready
+***** Procesing: Num177Line15Vers21
+Num177Line15Vers21 is ready
+***** Procesing: Num1374Line151Vers9
+Num1374Line151Vers9 is ready
+***** Procesing: Num327Line33Vers6
+Num327Line33Vers6 is ready
+***** Procesing: Num204Line16Vers10
+Num204Line16Vers10 is ready
+***** Procesing: Num270Line20Vers21
+Num270Line20Vers21 is ready
+***** Procesing: Num299Line21Vers4
+Num299Line21Vers4 is ready
+***** Procesing: Num1336Line146Vers22
+Num1336Line146Vers22 is ready
+***** Procesing: Num763Line101Vers39
+Num763Line101Vers39 is ready
+***** Procesing: Num289Line20Vers40
+Num289Line20Vers40 is ready
+***** Procesing: Num1232Line139Vers17
+Num1232Line139Vers17 is ready
+***** Procesing: Num669Line87Vers16
+^C
+Aborted!
+(base) alduck@alduck MutationAnalisys % python3 run_dot_m_files_MR3_sumError.py -i '/Users/alduck/Documents/Github/mt_industrial_usecase/SpecialIssue_PROFES/MutationAnalisys/not_crased_mutated_files_all_inputs/*' -m 'MR3_sum_err.m'
+***** Procesing: Num84Line13Vers2
+Num84Line13Vers2 is ready
+***** Procesing: Num232Line16Vers38
+Num232Line16Vers38 is ready
+***** Procesing: Num1230Line139Vers15
+Num1230Line139Vers15 is ready
+***** Procesing: Num46Line10Vers7
+Num46Line10Vers7 is ready
+***** Procesing: Num117Line13Vers35
+Num117Line13Vers35 is ready
+***** Procesing: Num161Line15Vers5
+Num161Line15Vers5 is ready
+***** Procesing: Num336Line34Vers8
+Num336Line34Vers8 is ready
+***** Procesing: Num324Line33Vers3
+Num324Line33Vers3 is ready
+***** Procesing: Num192Line15Vers36
+Num192Line15Vers36 is ready
+***** Procesing: Num446Line60Vers1
+Num446Line60Vers1 is ready
+***** Procesing: Num920Line114Vers25
+Num920Line114Vers25 is ready
+***** Procesing: Num1297Line141Vers9
+Num1297Line141Vers9 is ready
+***** Procesing: Num774Line101Vers50
+Num774Line101Vers50 is ready
+***** Procesing: Num113Line13Vers31
+Num113Line13Vers31 is ready
+***** Procesing: Num253Line20Vers4
+Num253Line20Vers4 is ready
+***** Procesing: Num1343Line149Vers2
+Num1343Line149Vers2 is ready
+***** Procesing: Num419Line43Vers5
+Num419Line43Vers5 is ready
+***** Procesing: Num1219Line139Vers4
+Num1219Line139Vers4 is ready
+***** Procesing: Num1072Line118Vers4
+Num1072Line118Vers4 is ready
+***** Procesing: Num1145Line122Vers27
+Num1145Line122Vers27 is ready
+***** Procesing: Num108Line13Vers26
+Num108Line13Vers26 is ready
+***** Procesing: Num1309Line144Vers8
+Num1309Line144Vers8 is ready
+***** Procesing: Num165Line15Vers9
+Num165Line15Vers9 is ready
+***** Procesing: Num105Line13Vers23
+Num105Line13Vers23 is ready
+***** Procesing: Num179Line15Vers23
+Num179Line15Vers23 is ready
+***** Procesing: Num1334Line146Vers20
+Num1334Line146Vers20 is ready
+***** Procesing: Num292Line20Vers43
+Num292Line20Vers43 is ready
+***** Procesing: Num678Line88Vers8
+Num678Line88Vers8 is ready
+***** Procesing: Num461Line61Vers10
+Num461Line61Vers10 is ready
+***** Procesing: Num474Line63Vers10
+Num474Line63Vers10 is ready
+***** Procesing: Num1304Line144Vers3
+Num1304Line144Vers3 is ready
+***** Procesing: Num520Line82Vers3
+Num520Line82Vers3 is ready
+***** Procesing: Num810Line104Vers11
+Num810Line104Vers11 is ready
+***** Procesing: Num452Line61Vers1
+Num452Line61Vers1 is ready
+***** Procesing: Num266Line20Vers17
+Num266Line20Vers17 is ready
+***** Procesing: Num1237Line139Vers22
+Num1237Line139Vers22 is ready
+***** Procesing: Num248Line19Vers8
+Num248Line19Vers8 is ready
+***** Procesing: Num407Line42Vers10
+Num407Line42Vers10 is ready
+***** Procesing: Num1111Line119Vers1
+Num1111Line119Vers1 is ready
+***** Procesing: Num39Line9Vers13
+Num39Line9Vers13 is ready
+***** Procesing: Num1293Line141Vers5
+Num1293Line141Vers5 is ready
+***** Procesing: Num826Line104Vers27
+Num826Line104Vers27 is ready
+***** Procesing: Num262Line20Vers13
+Num262Line20Vers13 is ready
+***** Procesing: Num510Line72Vers12
+Num510Line72Vers12 is ready
+***** Procesing: Num216Line16Vers22
+Num216Line16Vers22 is ready
+***** Procesing: Num91Line13Vers9
+Num91Line13Vers9 is ready
+***** Procesing: Num202Line16Vers8
+Num202Line16Vers8 is ready
+***** Procesing: Num524Line82Vers7
+Num524Line82Vers7 is ready
+***** Procesing: Num1329Line146Vers15
+Num1329Line146Vers15 is ready
+***** Procesing: Num569Line84Vers17
+Num569Line84Vers17 is ready
+***** Procesing: Num101Line13Vers19
+Num101Line13Vers19 is ready
+***** Procesing: Num280Line20Vers31
+Num280Line20Vers31 is ready
+***** Procesing: Num139Line14Vers20
+Num139Line14Vers20 is ready
+***** Procesing: Num187Line15Vers31
+Num187Line15Vers31 is ready
+***** Procesing: Num144Line14Vers25
+Num144Line14Vers25 is ready
+***** Procesing: Num1380Line152Vers4
+Num1380Line152Vers4 is ready
+***** Procesing: Num1333Line146Vers19
+Num1333Line146Vers19 is ready
+***** Procesing: Num220Line16Vers26
+Num220Line16Vers26 is ready
+***** Procesing: Num379Line41Vers23
+Num379Line41Vers23 is ready
+***** Procesing: Num284Line20Vers35
+Num284Line20Vers35 is ready
+***** Procesing: Num400Line42Vers3
+Num400Line42Vers3 is ready
+***** Procesing: Num23Line8Vers10
+Num23Line8Vers10 is ready
+***** Procesing: Num140Line14Vers21
+Num140Line14Vers21 is ready
+***** Procesing: Num111Line13Vers29
+Num111Line13Vers29 is ready
+***** Procesing: Num1340Line147Vers1
+Num1340Line147Vers1 is ready
+***** Procesing: Num58Line11Vers12
+Num58Line11Vers12 is ready
+***** Procesing: Num1251Line140Vers9
+Num1251Line140Vers9 is ready
+***** Procesing: Num1310Line144Vers9
+Num1310Line144Vers9 is ready
+***** Procesing: Num78Line11Vers32
+Num78Line11Vers32 is ready
+***** Procesing: Num682Line88Vers12
+Num682Line88Vers12 is ready
+***** Procesing: Num674Line88Vers4
+Num674Line88Vers4 is ready
+***** Procesing: Num1332Line146Vers18
+Num1332Line146Vers18 is ready
+***** Procesing: Num153Line14Vers34
+Num153Line14Vers34 is ready
+***** Procesing: Num1240Line139Vers25
+Num1240Line139Vers25 is ready
+***** Procesing: Num807Line104Vers8
+Num807Line104Vers8 is ready
+***** Procesing: Num1154Line122Vers36
+Num1154Line122Vers36 is ready
+***** Procesing: Num226Line16Vers32
+Num226Line16Vers32 is ready
+***** Procesing: Num276Line20Vers27
+Num276Line20Vers27 is ready
+***** Procesing: Num281Line20Vers32
+Num281Line20Vers32 is ready
+***** Procesing: Num181Line15Vers25
+Num181Line15Vers25 is ready
+***** Procesing: Num1328Line146Vers14
+Num1328Line146Vers14 is ready
+***** Procesing: Num145Line14Vers26
+Num145Line14Vers26 is ready
+***** Procesing: Num427Line43Vers13
+Num427Line43Vers13 is ready
+***** Procesing: Num67Line11Vers21
+Num67Line11Vers21 is ready
+***** Procesing: Num22Line8Vers9
+Num22Line8Vers9 is ready
+***** Procesing: Num285Line20Vers36
+Num285Line20Vers36 is ready
+***** Procesing: Num272Line20Vers23
+Num272Line20Vers23 is ready
+***** Procesing: Num820Line104Vers21
+Num820Line104Vers21 is ready
+***** Procesing: Num141Line14Vers22
+Num141Line14Vers22 is ready
+***** Procesing: Num157Line15Vers1
+Num157Line15Vers1 is ready
+***** Procesing: Num343Line37Vers1
+Num343Line37Vers1 is ready
+***** Procesing: Num1335Line146Vers21
+Num1335Line146Vers21 is ready
+***** Procesing: Num422Line43Vers8
+Num422Line43Vers8 is ready
+***** Procesing: Num1354Line150Vers2
+Num1354Line150Vers2 is ready
+***** Procesing: Num717Line92Vers7
+Num717Line92Vers7 is ready
+***** Procesing: Num798Line103Vers8
+Num798Line103Vers8 is ready
+***** Procesing: Num10Line7Vers10
+Num10Line7Vers10 is ready
+***** Procesing: Num684Line90Vers1
+Num684Line90Vers1 is ready
+***** Procesing: Num1378Line152Vers2
+Num1378Line152Vers2 is ready
+***** Procesing: Num1342Line149Vers1
+Num1342Line149Vers1 is ready
+***** Procesing: Num707Line90Vers24
+Num707Line90Vers24 is ready
+***** Procesing: Num1299Line143Vers1
+Num1299Line143Vers1 is ready
+***** Procesing: Num775Line101Vers51
+Num775Line101Vers51 is ready
+***** Procesing: Num198Line16Vers4
+Num198Line16Vers4 is ready
+***** Procesing: Num1311Line144Vers10
+Num1311Line144Vers10 is ready
+***** Procesing: Num185Line15Vers29
+Num185Line15Vers29 is ready
+***** Procesing: Num146Line14Vers27
+Num146Line14Vers27 is ready
+***** Procesing: Num809Line104Vers10
+Num809Line104Vers10 is ready
+***** Procesing: Num1313Line144Vers12
+Num1313Line144Vers12 is ready
+***** Procesing: Num410Line42Vers13
+Num410Line42Vers13 is ready
+***** Procesing: Num1233Line139Vers18
+Num1233Line139Vers18 is ready
+***** Procesing: Num275Line20Vers26
+Num275Line20Vers26 is ready
+***** Procesing: Num780Line101Vers56
+Num780Line101Vers56 is ready
+***** Procesing: Num439Line51Vers3
+Num439Line51Vers3 is ready
+***** Procesing: Num142Line14Vers23
+Num142Line14Vers23 is ready
+***** Procesing: Num464Line62Vers1
+Num464Line62Vers1 is ready
+***** Procesing: Num414Line42Vers17
+Num414Line42Vers17 is ready
+***** Procesing: Num64Line11Vers18
+Num64Line11Vers18 is ready
+***** Procesing: Num762Line101Vers38
+Num762Line101Vers38 is ready
+***** Procesing: Num286Line20Vers37
+Num286Line20Vers37 is ready
+***** Procesing: Num271Line20Vers22
+Num271Line20Vers22 is ready
+***** Procesing: Num435Line43Vers21
+Num435Line43Vers21 is ready
+***** Procesing: Num1337Line146Vers23
+Num1337Line146Vers23 is ready
+***** Procesing: Num406Line42Vers9
+Num406Line42Vers9 is ready
+***** Procesing: Num264Line20Vers15
+Num264Line20Vers15 is ready
+***** Procesing: Num1357Line150Vers5
+Num1357Line150Vers5 is ready
+***** Procesing: Num194Line15Vers38
+Num194Line15Vers38 is ready
+***** Procesing: Num1141Line122Vers23
+Num1141Line122Vers23 is ready
+***** Procesing: Num1369Line151Vers4
+Num1369Line151Vers4 is ready
+***** Procesing: Num1229Line139Vers14
+Num1229Line139Vers14 is ready
+***** Procesing: Num1353Line150Vers1
+Num1353Line150Vers1 is ready
+***** Procesing: Num219Line16Vers25
+Num219Line16Vers25 is ready
+***** Procesing: Num214Line16Vers20
+Num214Line16Vers20 is ready
+***** Procesing: Num530Line82Vers13
+Num530Line82Vers13 is ready
+***** Procesing: Num528Line82Vers11
+Num528Line82Vers11 is ready
+***** Procesing: Num744Line101Vers20
+Num744Line101Vers20 is ready
+***** Procesing: Num126Line14Vers7
+Num126Line14Vers7 is ready
+***** Procesing: Num294Line20Vers45
+Num294Line20Vers45 is ready
+***** Procesing: Num1242Line139Vers27
+Num1242Line139Vers27 is ready
+***** Procesing: Num463Line61Vers12
+Num463Line61Vers12 is ready
+***** Procesing: Num1234Line139Vers19
+Num1234Line139Vers19 is ready
+***** Procesing: Num476Line63Vers12
+Num476Line63Vers12 is ready
+***** Procesing: Num822Line104Vers23
+Num822Line104Vers23 is ready
+***** Procesing: Num594Line85Vers16
+Num594Line85Vers16 is ready
+***** Procesing: Num1345Line149Vers4
+Num1345Line149Vers4 is ready
+***** Procesing: Num290Line20Vers41
+Num290Line20Vers41 is ready
+***** Procesing: Num1301Line143Vers3
+Num1301Line143Vers3 is ready
+***** Procesing: Num670Line87Vers17
+Num670Line87Vers17 is ready
+***** Procesing: Num751Line101Vers27
+Num751Line101Vers27 is ready
+***** Procesing: Num857Line112Vers31
+Num857Line112Vers31 is ready
+***** Procesing: Num48Line11Vers2
+Num48Line11Vers2 is ready
+***** Procesing: Num269Line20Vers20
+Num269Line20Vers20 is ready
+***** Procesing: Num1323Line146Vers9
+Num1323Line146Vers9 is ready
+***** Procesing: Num25Line8Vers12
+Num25Line8Vers12 is ready
+***** Procesing: Num1130Line122Vers12
+Num1130Line122Vers12 is ready
+***** Procesing: Num251Line20Vers2
+Num251Line20Vers2 is ready
+***** Procesing: Num526Line82Vers9
+Num526Line82Vers9 is ready
+***** Procesing: Num338Line34Vers10
+Num338Line34Vers10 is ready
+***** Procesing: Num367Line41Vers11
+Num367Line41Vers11 is ready
+***** Procesing: Num86Line13Vers4
+Num86Line13Vers4 is ready
+***** Procesing: Num13Line7Vers13
+Num13Line7Vers13 is ready
+***** Procesing: Num408Line42Vers11
+Num408Line42Vers11 is ready
+***** Procesing: Num350Line37Vers8
+Num350Line37Vers8 is ready
+***** Procesing: Num1200Line137Vers9
+Num1200Line137Vers9 is ready
+***** Procesing: Num529Line82Vers12
+Num529Line82Vers12 is ready
+***** Procesing: Num295Line20Vers46
+Num295Line20Vers46 is ready
+***** Procesing: Num1228Line139Vers13
+Num1228Line139Vers13 is ready
+***** Procesing: Num189Line15Vers33
+Num189Line15Vers33 is ready
+***** Procesing: Num462Line61Vers11
+Num462Line61Vers11 is ready
+***** Procesing: Num856Line112Vers30
+Num856Line112Vers30 is ready
+***** Procesing: Num291Line20Vers42
+Num291Line20Vers42 is ready
+***** Procesing: Num808Line104Vers9
+Num808Line104Vers9 is ready
+***** Procesing: Num895Line113Vers1
+Num895Line113Vers1 is ready
+***** Procesing: Num70Line11Vers24
+Num70Line11Vers24 is ready
+***** Procesing: Num824Line104Vers25
+Num824Line104Vers25 is ready
+***** Procesing: Num1167Line134Vers1
+Num1167Line134Vers1 is ready
+***** Procesing: Num1235Line139Vers20
+Num1235Line139Vers20 is ready
+***** Procesing: Num231Line16Vers37
+Num231Line16Vers37 is ready
+***** Procesing: Num340Line34Vers12
+Num340Line34Vers12 is ready
+***** Procesing: Num1188Line136Vers10
+Num1188Line136Vers10 is ready
+***** Procesing: Num430Line43Vers16
+Num430Line43Vers16 is ready
+***** Procesing: Num1362Line150Vers10
+Num1362Line150Vers10 is ready
+***** Procesing: Num428Line43Vers14
+Num428Line43Vers14 is ready
+***** Procesing: Num102Line13Vers20
+Num102Line13Vers20 is ready
+***** Procesing: Num425Line43Vers11
+Num425Line43Vers11 is ready
+***** Procesing: Num224Line16Vers30
+Num224Line16Vers30 is ready
+***** Procesing: Num229Line16Vers35
+Num229Line16Vers35 is ready
+***** Procesing: Num183Line15Vers27
+Num183Line15Vers27 is ready
+***** Procesing: Num274Line20Vers25
+Num274Line20Vers25 is ready
+***** Procesing: Num37Line9Vers11
+Num37Line9Vers11 is ready
+***** Procesing: Num1246Line140Vers4
+Num1246Line140Vers4 is ready
+***** Procesing: Num106Line13Vers24
+Num106Line13Vers24 is ready
+***** Procesing: Num1139Line122Vers21
+Num1139Line122Vers21 is ready
+***** Procesing: Num24Line8Vers11
+Num24Line8Vers11 is ready
+***** Procesing: Num250Line20Vers1
+Num250Line20Vers1 is ready
+***** Procesing: Num223Line16Vers29
+Num223Line16Vers29 is ready
+***** Procesing: Num177Line15Vers21
+Num177Line15Vers21 is ready
+***** Procesing: Num1374Line151Vers9
+Num1374Line151Vers9 is ready
+***** Procesing: Num327Line33Vers6
+Num327Line33Vers6 is ready
+***** Procesing: Num204Line16Vers10
+Num204Line16Vers10 is ready
+***** Procesing: Num270Line20Vers21
+Num270Line20Vers21 is ready
+***** Procesing: Num299Line21Vers4
+Num299Line21Vers4 is ready
+***** Procesing: Num1336Line146Vers22
+Num1336Line146Vers22 is ready
+***** Procesing: Num763Line101Vers39
+Num763Line101Vers39 is ready
+***** Procesing: Num289Line20Vers40
+Num289Line20Vers40 is ready
+***** Procesing: Num1232Line139Vers17
+Num1232Line139Vers17 is ready
+***** Procesing: Num669Line87Vers16
+^C
+Aborted!
+(base) alduck@alduck MutationAnalisys % python3 run_dot_m_files_MR3_sumError.py -i '/Users/alduck/Documents/Github/mt_industrial_usecase/SpecialIssue_PROFES/MutationAnalisys/not_crased_mutated_files_all_inputs/*' -m 'MR3_sum_err.m'
+***** Procesing: Num84Line13Vers2
+Num84Line13Vers2 is ready
+***** Procesing: Num232Line16Vers38
+Num232Line16Vers38 is ready
+***** Procesing: Num1230Line139Vers15
+Num1230Line139Vers15 is ready
+***** Procesing: Num46Line10Vers7
+Num46Line10Vers7 is ready
+***** Procesing: Num117Line13Vers35
+Num117Line13Vers35 is ready
+***** Procesing: Num161Line15Vers5
+Num161Line15Vers5 is ready
+***** Procesing: Num336Line34Vers8
+Num336Line34Vers8 is ready
+***** Procesing: Num324Line33Vers3
+Num324Line33Vers3 is ready
+***** Procesing: Num192Line15Vers36
+Num192Line15Vers36 is ready
+***** Procesing: Num446Line60Vers1
+Num446Line60Vers1 is ready
+***** Procesing: Num920Line114Vers25
+Num920Line114Vers25 is ready
+***** Procesing: Num1297Line141Vers9
+Num1297Line141Vers9 is ready
+***** Procesing: Num774Line101Vers50
+Num774Line101Vers50 is ready
+***** Procesing: Num113Line13Vers31
+Num113Line13Vers31 is ready
+***** Procesing: Num253Line20Vers4
+Num253Line20Vers4 is ready
+***** Procesing: Num1343Line149Vers2
+Num1343Line149Vers2 is ready
+***** Procesing: Num419Line43Vers5
+Num419Line43Vers5 is ready
+***** Procesing: Num1219Line139Vers4
+Num1219Line139Vers4 is ready
+***** Procesing: Num1072Line118Vers4
+Num1072Line118Vers4 is ready
+***** Procesing: Num1145Line122Vers27
+Num1145Line122Vers27 is ready
+***** Procesing: Num108Line13Vers26
+Num108Line13Vers26 is ready
+***** Procesing: Num1309Line144Vers8
+Num1309Line144Vers8 is ready
+***** Procesing: Num165Line15Vers9
+Num165Line15Vers9 is ready
+***** Procesing: Num105Line13Vers23
+Num105Line13Vers23 is ready
+***** Procesing: Num179Line15Vers23
+Num179Line15Vers23 is ready
+***** Procesing: Num1334Line146Vers20
+Num1334Line146Vers20 is ready
+***** Procesing: Num292Line20Vers43
+Num292Line20Vers43 is ready
+***** Procesing: Num678Line88Vers8
+Num678Line88Vers8 is ready
+***** Procesing: Num461Line61Vers10
+Num461Line61Vers10 is ready
+***** Procesing: Num474Line63Vers10
+Num474Line63Vers10 is ready
+***** Procesing: Num1304Line144Vers3
+Num1304Line144Vers3 is ready
+***** Procesing: Num520Line82Vers3
+Num520Line82Vers3 is ready
+***** Procesing: Num810Line104Vers11
+Num810Line104Vers11 is ready
+***** Procesing: Num452Line61Vers1
+Num452Line61Vers1 is ready
+***** Procesing: Num266Line20Vers17
+Num266Line20Vers17 is ready
+***** Procesing: Num1237Line139Vers22
+Num1237Line139Vers22 is ready
+***** Procesing: Num248Line19Vers8
+Num248Line19Vers8 is ready
+***** Procesing: Num407Line42Vers10
+Num407Line42Vers10 is ready
+***** Procesing: Num1111Line119Vers1
+Num1111Line119Vers1 is ready
+***** Procesing: Num39Line9Vers13
+Num39Line9Vers13 is ready
+***** Procesing: Num1293Line141Vers5
+Num1293Line141Vers5 is ready
+***** Procesing: Num826Line104Vers27
+Num826Line104Vers27 is ready
+***** Procesing: Num262Line20Vers13
+Num262Line20Vers13 is ready
+***** Procesing: Num510Line72Vers12
+Num510Line72Vers12 is ready
+***** Procesing: Num216Line16Vers22
+Num216Line16Vers22 is ready
+***** Procesing: Num91Line13Vers9
+Num91Line13Vers9 is ready
+***** Procesing: Num202Line16Vers8
+Num202Line16Vers8 is ready
+***** Procesing: Num524Line82Vers7
+Num524Line82Vers7 is ready
+***** Procesing: Num1329Line146Vers15
+Num1329Line146Vers15 is ready
+***** Procesing: Num569Line84Vers17
+Num569Line84Vers17 is ready
+***** Procesing: Num101Line13Vers19
+Num101Line13Vers19 is ready
+***** Procesing: Num280Line20Vers31
+Num280Line20Vers31 is ready
+***** Procesing: Num139Line14Vers20
+Num139Line14Vers20 is ready
+***** Procesing: Num187Line15Vers31
+Num187Line15Vers31 is ready
+***** Procesing: Num144Line14Vers25
+Num144Line14Vers25 is ready
+***** Procesing: Num1380Line152Vers4
+Num1380Line152Vers4 is ready
+***** Procesing: Num1333Line146Vers19
+Num1333Line146Vers19 is ready
+***** Procesing: Num220Line16Vers26
+Num220Line16Vers26 is ready
+***** Procesing: Num379Line41Vers23
+Num379Line41Vers23 is ready
+***** Procesing: Num284Line20Vers35
+Num284Line20Vers35 is ready
+***** Procesing: Num400Line42Vers3
+Num400Line42Vers3 is ready
+***** Procesing: Num23Line8Vers10
+Num23Line8Vers10 is ready
+***** Procesing: Num140Line14Vers21
+Num140Line14Vers21 is ready
+***** Procesing: Num111Line13Vers29
+Num111Line13Vers29 is ready
+***** Procesing: Num1340Line147Vers1
+Num1340Line147Vers1 is ready
+***** Procesing: Num58Line11Vers12
+Num58Line11Vers12 is ready
+***** Procesing: Num1251Line140Vers9
+Num1251Line140Vers9 is ready
+***** Procesing: Num1310Line144Vers9
+Num1310Line144Vers9 is ready
+***** Procesing: Num78Line11Vers32
+Num78Line11Vers32 is ready
+***** Procesing: Num682Line88Vers12
+Num682Line88Vers12 is ready
+***** Procesing: Num674Line88Vers4
+Num674Line88Vers4 is ready
+***** Procesing: Num1332Line146Vers18
+Num1332Line146Vers18 is ready
+***** Procesing: Num153Line14Vers34
+Num153Line14Vers34 is ready
+***** Procesing: Num1240Line139Vers25
+Num1240Line139Vers25 is ready
+***** Procesing: Num807Line104Vers8
+Num807Line104Vers8 is ready
+***** Procesing: Num1154Line122Vers36
+Num1154Line122Vers36 is ready
+***** Procesing: Num226Line16Vers32
+Num226Line16Vers32 is ready
+***** Procesing: Num276Line20Vers27
+Num276Line20Vers27 is ready
+***** Procesing: Num281Line20Vers32
+Num281Line20Vers32 is ready
+***** Procesing: Num181Line15Vers25
+Num181Line15Vers25 is ready
+***** Procesing: Num1328Line146Vers14
+Num1328Line146Vers14 is ready
+***** Procesing: Num145Line14Vers26
+Num145Line14Vers26 is ready
+***** Procesing: Num427Line43Vers13
+Num427Line43Vers13 is ready
+***** Procesing: Num67Line11Vers21
+Num67Line11Vers21 is ready
+***** Procesing: Num22Line8Vers9
+Num22Line8Vers9 is ready
+***** Procesing: Num285Line20Vers36
+Num285Line20Vers36 is ready
+***** Procesing: Num272Line20Vers23
+Num272Line20Vers23 is ready
+***** Procesing: Num820Line104Vers21
+Num820Line104Vers21 is ready
+***** Procesing: Num141Line14Vers22
+Num141Line14Vers22 is ready
+***** Procesing: Num157Line15Vers1
+Num157Line15Vers1 is ready
+***** Procesing: Num343Line37Vers1
+Num343Line37Vers1 is ready
+***** Procesing: Num1335Line146Vers21
+Num1335Line146Vers21 is ready
+***** Procesing: Num422Line43Vers8
+Num422Line43Vers8 is ready
+***** Procesing: Num1354Line150Vers2
+Num1354Line150Vers2 is ready
+***** Procesing: Num717Line92Vers7
+Num717Line92Vers7 is ready
+***** Procesing: Num798Line103Vers8
+Num798Line103Vers8 is ready
+***** Procesing: Num10Line7Vers10
+Num10Line7Vers10 is ready
+***** Procesing: Num684Line90Vers1
+Num684Line90Vers1 is ready
+***** Procesing: Num1378Line152Vers2
+Num1378Line152Vers2 is ready
+***** Procesing: Num1342Line149Vers1
+Num1342Line149Vers1 is ready
+***** Procesing: Num707Line90Vers24
+Num707Line90Vers24 is ready
+***** Procesing: Num1299Line143Vers1
+Num1299Line143Vers1 is ready
+***** Procesing: Num775Line101Vers51
+Num775Line101Vers51 is ready
+***** Procesing: Num198Line16Vers4
+Num198Line16Vers4 is ready
+***** Procesing: Num1311Line144Vers10
+Num1311Line144Vers10 is ready
+***** Procesing: Num185Line15Vers29
+Num185Line15Vers29 is ready
+***** Procesing: Num146Line14Vers27
+Num146Line14Vers27 is ready
+***** Procesing: Num809Line104Vers10
+Num809Line104Vers10 is ready
+***** Procesing: Num1313Line144Vers12
+Num1313Line144Vers12 is ready
+***** Procesing: Num410Line42Vers13
+Num410Line42Vers13 is ready
+***** Procesing: Num1233Line139Vers18
+Num1233Line139Vers18 is ready
+***** Procesing: Num275Line20Vers26
+Num275Line20Vers26 is ready
+***** Procesing: Num780Line101Vers56
+Num780Line101Vers56 is ready
+***** Procesing: Num439Line51Vers3
+Num439Line51Vers3 is ready
+***** Procesing: Num142Line14Vers23
+Num142Line14Vers23 is ready
+***** Procesing: Num464Line62Vers1
+Num464Line62Vers1 is ready
+***** Procesing: Num414Line42Vers17
+Num414Line42Vers17 is ready
+***** Procesing: Num64Line11Vers18
+Num64Line11Vers18 is ready
+***** Procesing: Num762Line101Vers38
+Num762Line101Vers38 is ready
+***** Procesing: Num286Line20Vers37
+Num286Line20Vers37 is ready
+***** Procesing: Num271Line20Vers22
+Num271Line20Vers22 is ready
+***** Procesing: Num435Line43Vers21
+Num435Line43Vers21 is ready
+***** Procesing: Num1337Line146Vers23
+Num1337Line146Vers23 is ready
+***** Procesing: Num406Line42Vers9
+Num406Line42Vers9 is ready
+***** Procesing: Num264Line20Vers15
+Num264Line20Vers15 is ready
+***** Procesing: Num1357Line150Vers5
+Num1357Line150Vers5 is ready
+***** Procesing: Num194Line15Vers38
+Num194Line15Vers38 is ready
+***** Procesing: Num1141Line122Vers23
+Num1141Line122Vers23 is ready
+***** Procesing: Num1369Line151Vers4
+Num1369Line151Vers4 is ready
+***** Procesing: Num1229Line139Vers14
+Num1229Line139Vers14 is ready
+***** Procesing: Num1353Line150Vers1
+Num1353Line150Vers1 is ready
+***** Procesing: Num219Line16Vers25
+Num219Line16Vers25 is ready
+***** Procesing: Num214Line16Vers20
+Num214Line16Vers20 is ready
+***** Procesing: Num530Line82Vers13
+Num530Line82Vers13 is ready
+***** Procesing: Num528Line82Vers11
+Num528Line82Vers11 is ready
+***** Procesing: Num744Line101Vers20
+Num744Line101Vers20 is ready
+***** Procesing: Num126Line14Vers7
+Num126Line14Vers7 is ready
+***** Procesing: Num294Line20Vers45
+Num294Line20Vers45 is ready
+***** Procesing: Num1242Line139Vers27
+Num1242Line139Vers27 is ready
+***** Procesing: Num463Line61Vers12
+Num463Line61Vers12 is ready
+***** Procesing: Num1234Line139Vers19
+Num1234Line139Vers19 is ready
+***** Procesing: Num476Line63Vers12
+Num476Line63Vers12 is ready
+***** Procesing: Num822Line104Vers23
+Num822Line104Vers23 is ready
+***** Procesing: Num594Line85Vers16
+Num594Line85Vers16 is ready
+***** Procesing: Num1345Line149Vers4
+Num1345Line149Vers4 is ready
+***** Procesing: Num290Line20Vers41
+Num290Line20Vers41 is ready
+***** Procesing: Num1301Line143Vers3
+Num1301Line143Vers3 is ready
+***** Procesing: Num670Line87Vers17
+Num670Line87Vers17 is ready
+***** Procesing: Num751Line101Vers27
+Num751Line101Vers27 is ready
+***** Procesing: Num857Line112Vers31
+Num857Line112Vers31 is ready
+***** Procesing: Num48Line11Vers2
+Num48Line11Vers2 is ready
+***** Procesing: Num269Line20Vers20
+Num269Line20Vers20 is ready
+***** Procesing: Num1323Line146Vers9
+Num1323Line146Vers9 is ready
+***** Procesing: Num25Line8Vers12
+Num25Line8Vers12 is ready
+***** Procesing: Num1130Line122Vers12
+Num1130Line122Vers12 is ready
+***** Procesing: Num251Line20Vers2
+Num251Line20Vers2 is ready
+***** Procesing: Num526Line82Vers9
+Num526Line82Vers9 is ready
+***** Procesing: Num338Line34Vers10
+Num338Line34Vers10 is ready
+***** Procesing: Num367Line41Vers11
+Num367Line41Vers11 is ready
+***** Procesing: Num86Line13Vers4
+Num86Line13Vers4 is ready
+***** Procesing: Num13Line7Vers13
+Num13Line7Vers13 is ready
+***** Procesing: Num408Line42Vers11
+Num408Line42Vers11 is ready
+***** Procesing: Num350Line37Vers8
+Num350Line37Vers8 is ready
+***** Procesing: Num1200Line137Vers9
+Num1200Line137Vers9 is ready
+***** Procesing: Num529Line82Vers12
+Num529Line82Vers12 is ready
+***** Procesing: Num295Line20Vers46
+Num295Line20Vers46 is ready
+***** Procesing: Num1228Line139Vers13
+Num1228Line139Vers13 is ready
+***** Procesing: Num189Line15Vers33
+Num189Line15Vers33 is ready
+***** Procesing: Num462Line61Vers11
+Num462Line61Vers11 is ready
+***** Procesing: Num856Line112Vers30
+Num856Line112Vers30 is ready
+***** Procesing: Num291Line20Vers42
+Num291Line20Vers42 is ready
+***** Procesing: Num808Line104Vers9
+Num808Line104Vers9 is ready
+***** Procesing: Num895Line113Vers1
+Num895Line113Vers1 is ready
+***** Procesing: Num70Line11Vers24
+Num70Line11Vers24 is ready
+***** Procesing: Num824Line104Vers25
+Num824Line104Vers25 is ready
+***** Procesing: Num1167Line134Vers1
+Num1167Line134Vers1 is ready
+***** Procesing: Num1235Line139Vers20
+Num1235Line139Vers20 is ready
+***** Procesing: Num231Line16Vers37
+Num231Line16Vers37 is ready
+***** Procesing: Num340Line34Vers12
+Num340Line34Vers12 is ready
+***** Procesing: Num1188Line136Vers10
+Num1188Line136Vers10 is ready
+***** Procesing: Num430Line43Vers16
+Num430Line43Vers16 is ready
+***** Procesing: Num1362Line150Vers10
+Num1362Line150Vers10 is ready
+***** Procesing: Num428Line43Vers14
+Num428Line43Vers14 is ready
+***** Procesing: Num102Line13Vers20
+Num102Line13Vers20 is ready
+***** Procesing: Num425Line43Vers11
+Num425Line43Vers11 is ready
+***** Procesing: Num224Line16Vers30
+Num224Line16Vers30 is ready
+***** Procesing: Num229Line16Vers35
+Num229Line16Vers35 is ready
+***** Procesing: Num183Line15Vers27
+Num183Line15Vers27 is ready
+***** Procesing: Num274Line20Vers25
+Num274Line20Vers25 is ready
+***** Procesing: Num37Line9Vers11
+Num37Line9Vers11 is ready
+***** Procesing: Num1246Line140Vers4
+Num1246Line140Vers4 is ready
+***** Procesing: Num106Line13Vers24
+Num106Line13Vers24 is ready
+***** Procesing: Num1139Line122Vers21
+Num1139Line122Vers21 is ready
+***** Procesing: Num24Line8Vers11
+Num24Line8Vers11 is ready
+***** Procesing: Num250Line20Vers1
+Num250Line20Vers1 is ready
+***** Procesing: Num223Line16Vers29
+Num223Line16Vers29 is ready
+***** Procesing: Num177Line15Vers21
+Num177Line15Vers21 is ready
+***** Procesing: Num1374Line151Vers9
+Num1374Line151Vers9 is ready
+***** Procesing: Num327Line33Vers6
+Num327Line33Vers6 is ready
+***** Procesing: Num204Line16Vers10
+Num204Line16Vers10 is ready
+***** Procesing: Num270Line20Vers21
+Num270Line20Vers21 is ready
+***** Procesing: Num299Line21Vers4
+Num299Line21Vers4 is ready
+***** Procesing: Num1336Line146Vers22
+Num1336Line146Vers22 is ready
+***** Procesing: Num763Line101Vers39
+Num763Line101Vers39 is ready
+***** Procesing: Num289Line20Vers40
+Num289Line20Vers40 is ready
+***** Procesing: Num1232Line139Vers17
+Num1232Line139Vers17 is ready
+***** Procesing: Num669Line87Vers16
+Num669Line87Vers16 is ready
+***** Procesing: Num1341Line148Vers1
+DONE with  Num1341Line148Vers1 . Execution time:  60.350675106048584  seconds
+*****
+***** Procesing: Num265Line20Vers16
+DONE with  Num265Line20Vers16 . Execution time:  61.90023994445801  seconds
+*****
+***** Procesing: Num718Line92Vers8
+DONE with  Num718Line92Vers8 . Execution time:  61.157360792160034  seconds
+*****
+***** Procesing: Num823Line104Vers24
+DONE with  Num823Line104Vers24 . Execution time:  58.47102427482605  seconds
+*****
+***** Procesing: Num114Line13Vers32
+DONE with  Num114Line13Vers32 . Execution time:  60.94791030883789  seconds
+*****
+***** Procesing: Num680Line88Vers10
+DONE with  Num680Line88Vers10 . Execution time:  58.7523250579834  seconds
+*****
+***** Procesing: Num119Line13Vers37
+DONE with  Num119Line13Vers37 . Execution time:  60.712454319000244  seconds
+*****
+***** Procesing: Num781Line101Vers57
+DONE with  Num781Line101Vers57 . Execution time:  59.459835052490234  seconds
+*****
+***** Procesing: Num706Line90Vers23
+DONE with  Num706Line90Vers23 . Execution time:  20.210441827774048  seconds
+*****
+***** Procesing: Num277Line20Vers28
+DONE with  Num277Line20Vers28 . Execution time:  58.101353883743286  seconds
+*****
+***** Procesing: Num1080Line118Vers12
+DONE with  Num1080Line118Vers12 . Execution time:  54.450132846832275  seconds
+*****
+***** Procesing: Num1142Line122Vers24
+DONE with  Num1142Line122Vers24 . Execution time:  58.23112082481384  seconds
+*****
+***** Procesing: Num818Line104Vers19
+DONE with  Num818Line104Vers19 . Execution time:  58.99689292907715  seconds
+*****
+***** Procesing: Num279Line20Vers30
+DONE with  Num279Line20Vers30 . Execution time:  59.6368670463562  seconds
+*****
+***** Procesing: Num180Line15Vers24
+DONE with  Num180Line15Vers24 . Execution time:  59.74973177909851  seconds
+*****
+***** Procesing: Num227Line16Vers33
+DONE with  Num227Line16Vers33 . Execution time:  60.10768699645996  seconds
+*****
+***** Procesing: Num503Line72Vers5
+DONE with  Num503Line72Vers5 . Execution time:  61.28935194015503  seconds
+*****
+***** Procesing: Num423Line43Vers9
+DONE with  Num423Line43Vers9 . Execution time:  72.57229900360107  seconds
+*****
+***** Procesing: Num426Line43Vers12
+DONE with  Num426Line43Vers12 . Execution time:  59.974153995513916  seconds
+*****
+***** Procesing: Num752Line101Vers28
+DONE with  Num752Line101Vers28 . Execution time:  61.93495297431946  seconds
+*****
+***** Procesing: Num1314Line145Vers1
+DONE with  Num1314Line145Vers1 . Execution time:  19.50688409805298  seconds
+*****
+***** Procesing: Num89Line13Vers7
+DONE with  Num89Line13Vers7 . Execution time:  61.70956993103027  seconds
+*****
+***** Procesing: Num1129Line122Vers11
+DONE with  Num1129Line122Vers11 . Execution time:  62.77025508880615  seconds
+*****
+***** Procesing: Num1241Line139Vers26
+DONE with  Num1241Line139Vers26 . Execution time:  24.699177026748657  seconds
+*****
+***** Procesing: Num199Line16Vers5
+DONE with  Num199Line16Vers5 . Execution time:  59.893558979034424  seconds
+*****
+***** Procesing: Num784Line101Vers60
+DONE with  Num784Line101Vers60 . Execution time:  62.66772794723511  seconds
+*****
+***** Procesing: Num11Line7Vers11
+DONE with  Num11Line7Vers11 . Execution time:  58.01639771461487  seconds
+*****
+***** Procesing: Num830Line112Vers4
+DONE with  Num830Line112Vers4 . Execution time:  56.65854597091675  seconds
+*****
+***** Procesing: Num1366Line151Vers1
+DONE with  Num1366Line151Vers1 . Execution time:  63.98027801513672  seconds
+*****
+***** Procesing: Num1326Line146Vers12
+DONE with  Num1326Line146Vers12 . Execution time:  61.666930198669434  seconds
+*****
+***** Procesing: Num354Line38Vers3
+DONE with  Num354Line38Vers3 . Execution time:  61.117684841156006  seconds
+*****
+***** Procesing: Num9Line7Vers9
+DONE with  Num9Line7Vers9 . Execution time:  19.789933919906616  seconds
+*****
+***** Procesing: Num110Line13Vers28
+DONE with  Num110Line13Vers28 . Execution time:  59.842849016189575  seconds
+*****
+***** Procesing: Num355Line39Vers1
+DONE with  Num355Line39Vers1 . Execution time:  211.81400299072266  seconds
+*****
+***** Procesing: Num671Line88Vers1
+DONE with  Num671Line88Vers1 . Execution time:  59.49984788894653  seconds
+*****
+***** Procesing: Num368Line41Vers12
+DONE with  Num368Line41Vers12 . Execution time:  58.66902828216553  seconds
+*****
+***** Procesing: Num241Line19Vers1
+DONE with  Num241Line19Vers1 . Execution time:  71.04299306869507  seconds
+*****
+***** Procesing: Num1390Line153Vers1
+DONE with  Num1390Line153Vers1 . Execution time:  60.07998204231262  seconds
+*****
+***** Procesing: Num184Line15Vers28
+DONE with  Num184Line15Vers28 . Execution time:  59.26492714881897  seconds
+*****
+***** Procesing: Num412Line42Vers15
+DONE with  Num412Line42Vers15 . Execution time:  58.26211619377136  seconds
+*****
+***** Procesing: Num273Line20Vers24
+DONE with  Num273Line20Vers24 . Execution time:  60.932607889175415  seconds
+*****
+***** Procesing: Num758Line101Vers34
+DONE with  Num758Line101Vers34 . Execution time:  57.01821804046631  seconds
+*****
+***** Procesing: Num675Line88Vers5
+DONE with  Num675Line88Vers5 . Execution time:  60.17561674118042  seconds
+*****
+***** Procesing: Num1112Line120Vers1
+DONE with  Num1112Line120Vers1 . Execution time:  62.06159996986389  seconds
+*****
+***** Procesing: Num1225Line139Vers10
+DONE with  Num1225Line139Vers10 . Execution time:  24.48664402961731  seconds
+*****
+***** Procesing: Num1238Line139Vers23
+DONE with  Num1238Line139Vers23 . Execution time:  24.686146020889282  seconds
+*****
+***** Procesing: Num297Line21Vers2
+DONE with  Num297Line21Vers2 . Execution time:  59.0317816734314  seconds
+*****
+***** Procesing: Num761Line101Vers37
+DONE with  Num761Line101Vers37 . Execution time:  61.19909691810608  seconds
+*****
+***** Procesing: Num799Line103Vers9
+DONE with  Num799Line103Vers9 . Execution time:  58.752233266830444  seconds
+*****
+***** Procesing: Num156Line14Vers37
+DONE with  Num156Line14Vers37 . Execution time:  60.46218490600586  seconds
+*****
+***** Procesing: Num120Line14Vers1
+DONE with  Num120Line14Vers1 . Execution time:  59.09791421890259  seconds
+*****
+***** Procesing: Num739Line101Vers15
+DONE with  Num739Line101Vers15 . Execution time:  61.83501100540161  seconds
+*****
+***** Procesing: Num783Line101Vers59
+DONE with  Num783Line101Vers59 . Execution time:  56.40909790992737  seconds
+*****
+***** Procesing: Num532Line82Vers15
+DONE with  Num532Line82Vers15 . Execution time:  58.01470398902893  seconds
+*****
+***** Procesing: Num399Line42Vers2
+DONE with  Num399Line42Vers2 . Execution time:  57.42551803588867  seconds
+*****
+***** Procesing: Num38Line9Vers12
+DONE with  Num38Line9Vers12 . Execution time:  59.332229137420654  seconds
+*****
+***** Procesing: Num26Line8Vers13
+DONE with  Num26Line8Vers13 . Execution time:  58.89972281455994  seconds
+*****
+***** Procesing: Num738Line101Vers14
+DONE with  Num738Line101Vers14 . Execution time:  58.775784969329834  seconds
+*****
+***** Procesing: Num288Line20Vers39
+DONE with  Num288Line20Vers39 . Execution time:  60.011630058288574  seconds
+*****
+***** Procesing: Num356Line40Vers1
+DONE with  Num356Line40Vers1 . Execution time:  218.29375195503235  seconds
+*****
+***** Procesing: Num525Line82Vers8
+DONE with  Num525Line82Vers8 . Execution time:  64.36980605125427  seconds
+*****
+***** Procesing: Num252Line20Vers3
+DONE with  Num252Line20Vers3 . Execution time:  60.94178104400635  seconds
+*****
+***** Procesing: Num515Line74Vers4
+DONE with  Num515Line74Vers4 . Execution time:  21.929569005966187  seconds
+*****
+***** Procesing: Num249Line19Vers9
+DONE with  Num249Line19Vers9 . Execution time:  60.2201361656189  seconds
+*****
+***** Procesing: Num475Line63Vers11
+DONE with  Num475Line63Vers11 . Execution time:  58.14631390571594  seconds
+*****
+***** Procesing: Num1231Line139Vers16
+DONE with  Num1231Line139Vers16 . Execution time:  61.61327409744263  seconds
+*****
+***** Procesing: Num1308Line144Vers7
+DONE with  Num1308Line144Vers7 . Execution time:  61.57743287086487  seconds
+*****
+***** Procesing: Num203Line16Vers9
+DONE with  Num203Line16Vers9 . Execution time:  62.884292125701904  seconds
+*****
+***** Procesing: Num658Line87Vers5
+
+Aborted!
+(base) alduck@alduck MutationAnalisys % 
+(base) alduck@alduck MutationAnalisys % python3 run_dot_m_files_MR3_sumError.py -i '/Users/alduck/Documents/Github/mt_industrial_usecase/SpecialIssue_PROFES/MutationAnalisys/not_crased_mutated_files_all_inputs/*' -m 'MR3_sum_err.m'
+***** Procesing: Num84Line13Vers2
+Num84Line13Vers2 is ready
+***** Procesing: Num232Line16Vers38
+Num232Line16Vers38 is ready
+***** Procesing: Num1230Line139Vers15
+Num1230Line139Vers15 is ready
+***** Procesing: Num46Line10Vers7
+Num46Line10Vers7 is ready
+***** Procesing: Num117Line13Vers35
+Num117Line13Vers35 is ready
+***** Procesing: Num161Line15Vers5
+Num161Line15Vers5 is ready
+***** Procesing: Num336Line34Vers8
+Num336Line34Vers8 is ready
+***** Procesing: Num324Line33Vers3
+Num324Line33Vers3 is ready
+***** Procesing: Num192Line15Vers36
+Num192Line15Vers36 is ready
+***** Procesing: Num446Line60Vers1
+Num446Line60Vers1 is ready
+***** Procesing: Num920Line114Vers25
+Num920Line114Vers25 is ready
+***** Procesing: Num1297Line141Vers9
+Num1297Line141Vers9 is ready
+***** Procesing: Num774Line101Vers50
+Num774Line101Vers50 is ready
+***** Procesing: Num113Line13Vers31
+Num113Line13Vers31 is ready
+***** Procesing: Num253Line20Vers4
+Num253Line20Vers4 is ready
+***** Procesing: Num1343Line149Vers2
+Num1343Line149Vers2 is ready
+***** Procesing: Num419Line43Vers5
+Num419Line43Vers5 is ready
+***** Procesing: Num1219Line139Vers4
+Num1219Line139Vers4 is ready
+***** Procesing: Num1072Line118Vers4
+Num1072Line118Vers4 is ready
+***** Procesing: Num1145Line122Vers27
+Num1145Line122Vers27 is ready
+***** Procesing: Num108Line13Vers26
+Num108Line13Vers26 is ready
+***** Procesing: Num1309Line144Vers8
+Num1309Line144Vers8 is ready
+***** Procesing: Num165Line15Vers9
+Num165Line15Vers9 is ready
+***** Procesing: Num105Line13Vers23
+Num105Line13Vers23 is ready
+***** Procesing: Num179Line15Vers23
+Num179Line15Vers23 is ready
+***** Procesing: Num1334Line146Vers20
+Num1334Line146Vers20 is ready
+***** Procesing: Num292Line20Vers43
+Num292Line20Vers43 is ready
+***** Procesing: Num678Line88Vers8
+Num678Line88Vers8 is ready
+***** Procesing: Num461Line61Vers10
+Num461Line61Vers10 is ready
+***** Procesing: Num474Line63Vers10
+Num474Line63Vers10 is ready
+***** Procesing: Num1304Line144Vers3
+Num1304Line144Vers3 is ready
+***** Procesing: Num520Line82Vers3
+Num520Line82Vers3 is ready
+***** Procesing: Num810Line104Vers11
+Num810Line104Vers11 is ready
+***** Procesing: Num452Line61Vers1
+Num452Line61Vers1 is ready
+***** Procesing: Num266Line20Vers17
+Num266Line20Vers17 is ready
+***** Procesing: Num1237Line139Vers22
+Num1237Line139Vers22 is ready
+***** Procesing: Num248Line19Vers8
+Num248Line19Vers8 is ready
+***** Procesing: Num407Line42Vers10
+Num407Line42Vers10 is ready
+***** Procesing: Num1111Line119Vers1
+Num1111Line119Vers1 is ready
+***** Procesing: Num39Line9Vers13
+Num39Line9Vers13 is ready
+***** Procesing: Num1293Line141Vers5
+Num1293Line141Vers5 is ready
+***** Procesing: Num826Line104Vers27
+Num826Line104Vers27 is ready
+***** Procesing: Num262Line20Vers13
+Num262Line20Vers13 is ready
+***** Procesing: Num510Line72Vers12
+Num510Line72Vers12 is ready
+***** Procesing: Num216Line16Vers22
+Num216Line16Vers22 is ready
+***** Procesing: Num91Line13Vers9
+Num91Line13Vers9 is ready
+***** Procesing: Num202Line16Vers8
+Num202Line16Vers8 is ready
+***** Procesing: Num524Line82Vers7
+Num524Line82Vers7 is ready
+***** Procesing: Num1329Line146Vers15
+Num1329Line146Vers15 is ready
+***** Procesing: Num569Line84Vers17
+Num569Line84Vers17 is ready
+***** Procesing: Num101Line13Vers19
+Num101Line13Vers19 is ready
+***** Procesing: Num280Line20Vers31
+Num280Line20Vers31 is ready
+***** Procesing: Num139Line14Vers20
+Num139Line14Vers20 is ready
+***** Procesing: Num187Line15Vers31
+Num187Line15Vers31 is ready
+***** Procesing: Num144Line14Vers25
+Num144Line14Vers25 is ready
+***** Procesing: Num1380Line152Vers4
+Num1380Line152Vers4 is ready
+***** Procesing: Num1333Line146Vers19
+Num1333Line146Vers19 is ready
+***** Procesing: Num220Line16Vers26
+Num220Line16Vers26 is ready
+***** Procesing: Num379Line41Vers23
+Num379Line41Vers23 is ready
+***** Procesing: Num284Line20Vers35
+Num284Line20Vers35 is ready
+***** Procesing: Num400Line42Vers3
+Num400Line42Vers3 is ready
+***** Procesing: Num23Line8Vers10
+Num23Line8Vers10 is ready
+***** Procesing: Num140Line14Vers21
+Num140Line14Vers21 is ready
+***** Procesing: Num111Line13Vers29
+Num111Line13Vers29 is ready
+***** Procesing: Num1340Line147Vers1
+Num1340Line147Vers1 is ready
+***** Procesing: Num58Line11Vers12
+Num58Line11Vers12 is ready
+***** Procesing: Num1251Line140Vers9
+Num1251Line140Vers9 is ready
+***** Procesing: Num1310Line144Vers9
+Num1310Line144Vers9 is ready
+***** Procesing: Num78Line11Vers32
+Num78Line11Vers32 is ready
+***** Procesing: Num682Line88Vers12
+Num682Line88Vers12 is ready
+***** Procesing: Num674Line88Vers4
+Num674Line88Vers4 is ready
+***** Procesing: Num1332Line146Vers18
+Num1332Line146Vers18 is ready
+***** Procesing: Num153Line14Vers34
+Num153Line14Vers34 is ready
+***** Procesing: Num1240Line139Vers25
+Num1240Line139Vers25 is ready
+***** Procesing: Num807Line104Vers8
+Num807Line104Vers8 is ready
+***** Procesing: Num1154Line122Vers36
+Num1154Line122Vers36 is ready
+***** Procesing: Num226Line16Vers32
+Num226Line16Vers32 is ready
+***** Procesing: Num276Line20Vers27
+Num276Line20Vers27 is ready
+***** Procesing: Num281Line20Vers32
+Num281Line20Vers32 is ready
+***** Procesing: Num181Line15Vers25
+Num181Line15Vers25 is ready
+***** Procesing: Num1328Line146Vers14
+Num1328Line146Vers14 is ready
+***** Procesing: Num145Line14Vers26
+Num145Line14Vers26 is ready
+***** Procesing: Num427Line43Vers13
+Num427Line43Vers13 is ready
+***** Procesing: Num67Line11Vers21
+Num67Line11Vers21 is ready
+***** Procesing: Num22Line8Vers9
+Num22Line8Vers9 is ready
+***** Procesing: Num285Line20Vers36
+Num285Line20Vers36 is ready
+***** Procesing: Num272Line20Vers23
+Num272Line20Vers23 is ready
+***** Procesing: Num820Line104Vers21
+Num820Line104Vers21 is ready
+***** Procesing: Num141Line14Vers22
+Num141Line14Vers22 is ready
+***** Procesing: Num157Line15Vers1
+Num157Line15Vers1 is ready
+***** Procesing: Num343Line37Vers1
+Num343Line37Vers1 is ready
+***** Procesing: Num1335Line146Vers21
+Num1335Line146Vers21 is ready
+***** Procesing: Num422Line43Vers8
+Num422Line43Vers8 is ready
+***** Procesing: Num1354Line150Vers2
+Num1354Line150Vers2 is ready
+***** Procesing: Num717Line92Vers7
+Num717Line92Vers7 is ready
+***** Procesing: Num798Line103Vers8
+Num798Line103Vers8 is ready
+***** Procesing: Num10Line7Vers10
+Num10Line7Vers10 is ready
+***** Procesing: Num684Line90Vers1
+Num684Line90Vers1 is ready
+***** Procesing: Num1378Line152Vers2
+Num1378Line152Vers2 is ready
+***** Procesing: Num1342Line149Vers1
+Num1342Line149Vers1 is ready
+***** Procesing: Num707Line90Vers24
+Num707Line90Vers24 is ready
+***** Procesing: Num1299Line143Vers1
+Num1299Line143Vers1 is ready
+***** Procesing: Num775Line101Vers51
+Num775Line101Vers51 is ready
+***** Procesing: Num198Line16Vers4
+Num198Line16Vers4 is ready
+***** Procesing: Num1311Line144Vers10
+Num1311Line144Vers10 is ready
+***** Procesing: Num185Line15Vers29
+Num185Line15Vers29 is ready
+***** Procesing: Num146Line14Vers27
+Num146Line14Vers27 is ready
+***** Procesing: Num809Line104Vers10
+Num809Line104Vers10 is ready
+***** Procesing: Num1313Line144Vers12
+Num1313Line144Vers12 is ready
+***** Procesing: Num410Line42Vers13
+Num410Line42Vers13 is ready
+***** Procesing: Num1233Line139Vers18
+Num1233Line139Vers18 is ready
+***** Procesing: Num275Line20Vers26
+Num275Line20Vers26 is ready
+***** Procesing: Num780Line101Vers56
+Num780Line101Vers56 is ready
+***** Procesing: Num439Line51Vers3
+Num439Line51Vers3 is ready
+***** Procesing: Num142Line14Vers23
+Num142Line14Vers23 is ready
+***** Procesing: Num464Line62Vers1
+Num464Line62Vers1 is ready
+***** Procesing: Num414Line42Vers17
+Num414Line42Vers17 is ready
+***** Procesing: Num64Line11Vers18
+Num64Line11Vers18 is ready
+***** Procesing: Num762Line101Vers38
+Num762Line101Vers38 is ready
+***** Procesing: Num286Line20Vers37
+Num286Line20Vers37 is ready
+***** Procesing: Num271Line20Vers22
+Num271Line20Vers22 is ready
+***** Procesing: Num435Line43Vers21
+Num435Line43Vers21 is ready
+***** Procesing: Num1337Line146Vers23
+Num1337Line146Vers23 is ready
+***** Procesing: Num406Line42Vers9
+Num406Line42Vers9 is ready
+***** Procesing: Num264Line20Vers15
+Num264Line20Vers15 is ready
+***** Procesing: Num1357Line150Vers5
+Num1357Line150Vers5 is ready
+***** Procesing: Num194Line15Vers38
+Num194Line15Vers38 is ready
+***** Procesing: Num1141Line122Vers23
+Num1141Line122Vers23 is ready
+***** Procesing: Num1369Line151Vers4
+Num1369Line151Vers4 is ready
+***** Procesing: Num1229Line139Vers14
+Num1229Line139Vers14 is ready
+***** Procesing: Num1353Line150Vers1
+Num1353Line150Vers1 is ready
+***** Procesing: Num219Line16Vers25
+Num219Line16Vers25 is ready
+***** Procesing: Num214Line16Vers20
+Num214Line16Vers20 is ready
+***** Procesing: Num530Line82Vers13
+Num530Line82Vers13 is ready
+***** Procesing: Num528Line82Vers11
+Num528Line82Vers11 is ready
+***** Procesing: Num744Line101Vers20
+Num744Line101Vers20 is ready
+***** Procesing: Num126Line14Vers7
+Num126Line14Vers7 is ready
+***** Procesing: Num294Line20Vers45
+Num294Line20Vers45 is ready
+***** Procesing: Num1242Line139Vers27
+Num1242Line139Vers27 is ready
+***** Procesing: Num463Line61Vers12
+Num463Line61Vers12 is ready
+***** Procesing: Num1234Line139Vers19
+Num1234Line139Vers19 is ready
+***** Procesing: Num476Line63Vers12
+Num476Line63Vers12 is ready
+***** Procesing: Num822Line104Vers23
+Num822Line104Vers23 is ready
+***** Procesing: Num594Line85Vers16
+Num594Line85Vers16 is ready
+***** Procesing: Num1345Line149Vers4
+Num1345Line149Vers4 is ready
+***** Procesing: Num290Line20Vers41
+Num290Line20Vers41 is ready
+***** Procesing: Num1301Line143Vers3
+Num1301Line143Vers3 is ready
+***** Procesing: Num670Line87Vers17
+Num670Line87Vers17 is ready
+***** Procesing: Num751Line101Vers27
+Num751Line101Vers27 is ready
+***** Procesing: Num857Line112Vers31
+Num857Line112Vers31 is ready
+***** Procesing: Num48Line11Vers2
+Num48Line11Vers2 is ready
+***** Procesing: Num269Line20Vers20
+Num269Line20Vers20 is ready
+***** Procesing: Num1323Line146Vers9
+Num1323Line146Vers9 is ready
+***** Procesing: Num25Line8Vers12
+Num25Line8Vers12 is ready
+***** Procesing: Num1130Line122Vers12
+Num1130Line122Vers12 is ready
+***** Procesing: Num251Line20Vers2
+Num251Line20Vers2 is ready
+***** Procesing: Num526Line82Vers9
+Num526Line82Vers9 is ready
+***** Procesing: Num338Line34Vers10
+Num338Line34Vers10 is ready
+***** Procesing: Num367Line41Vers11
+Num367Line41Vers11 is ready
+***** Procesing: Num86Line13Vers4
+Num86Line13Vers4 is ready
+***** Procesing: Num13Line7Vers13
+Num13Line7Vers13 is ready
+***** Procesing: Num408Line42Vers11
+Num408Line42Vers11 is ready
+***** Procesing: Num350Line37Vers8
+Num350Line37Vers8 is ready
+***** Procesing: Num1200Line137Vers9
+Num1200Line137Vers9 is ready
+***** Procesing: Num529Line82Vers12
+Num529Line82Vers12 is ready
+***** Procesing: Num295Line20Vers46
+Num295Line20Vers46 is ready
+***** Procesing: Num1228Line139Vers13
+Num1228Line139Vers13 is ready
+***** Procesing: Num189Line15Vers33
+Num189Line15Vers33 is ready
+***** Procesing: Num462Line61Vers11
+Num462Line61Vers11 is ready
+***** Procesing: Num856Line112Vers30
+Num856Line112Vers30 is ready
+***** Procesing: Num291Line20Vers42
+Num291Line20Vers42 is ready
+***** Procesing: Num808Line104Vers9
+Num808Line104Vers9 is ready
+***** Procesing: Num895Line113Vers1
+Num895Line113Vers1 is ready
+***** Procesing: Num70Line11Vers24
+Num70Line11Vers24 is ready
+***** Procesing: Num824Line104Vers25
+Num824Line104Vers25 is ready
+***** Procesing: Num1167Line134Vers1
+Num1167Line134Vers1 is ready
+***** Procesing: Num1235Line139Vers20
+Num1235Line139Vers20 is ready
+***** Procesing: Num231Line16Vers37
+Num231Line16Vers37 is ready
+***** Procesing: Num340Line34Vers12
+Num340Line34Vers12 is ready
+***** Procesing: Num1188Line136Vers10
+Num1188Line136Vers10 is ready
+***** Procesing: Num430Line43Vers16
+Num430Line43Vers16 is ready
+***** Procesing: Num1362Line150Vers10
+Num1362Line150Vers10 is ready
+***** Procesing: Num428Line43Vers14
+Num428Line43Vers14 is ready
+***** Procesing: Num102Line13Vers20
+Num102Line13Vers20 is ready
+***** Procesing: Num425Line43Vers11
+Num425Line43Vers11 is ready
+***** Procesing: Num224Line16Vers30
+Num224Line16Vers30 is ready
+***** Procesing: Num229Line16Vers35
+Num229Line16Vers35 is ready
+***** Procesing: Num183Line15Vers27
+Num183Line15Vers27 is ready
+***** Procesing: Num274Line20Vers25
+Num274Line20Vers25 is ready
+***** Procesing: Num37Line9Vers11
+Num37Line9Vers11 is ready
+***** Procesing: Num1246Line140Vers4
+Num1246Line140Vers4 is ready
+***** Procesing: Num106Line13Vers24
+Num106Line13Vers24 is ready
+***** Procesing: Num1139Line122Vers21
+Num1139Line122Vers21 is ready
+***** Procesing: Num24Line8Vers11
+Num24Line8Vers11 is ready
+***** Procesing: Num250Line20Vers1
+Num250Line20Vers1 is ready
+***** Procesing: Num223Line16Vers29
+Num223Line16Vers29 is ready
+***** Procesing: Num177Line15Vers21
+Num177Line15Vers21 is ready
+***** Procesing: Num1374Line151Vers9
+Num1374Line151Vers9 is ready
+***** Procesing: Num327Line33Vers6
+Num327Line33Vers6 is ready
+***** Procesing: Num204Line16Vers10
+Num204Line16Vers10 is ready
+***** Procesing: Num270Line20Vers21
+Num270Line20Vers21 is ready
+***** Procesing: Num299Line21Vers4
+Num299Line21Vers4 is ready
+***** Procesing: Num1336Line146Vers22
+Num1336Line146Vers22 is ready
+***** Procesing: Num763Line101Vers39
+Num763Line101Vers39 is ready
+***** Procesing: Num289Line20Vers40
+Num289Line20Vers40 is ready
+***** Procesing: Num1232Line139Vers17
+Num1232Line139Vers17 is ready
+***** Procesing: Num669Line87Vers16
+Num669Line87Vers16 is ready
+***** Procesing: Num1341Line148Vers1
+DONE with  Num1341Line148Vers1 . Execution time:  63.52160906791687  seconds
+*****
+***** Procesing: Num265Line20Vers16
+DONE with  Num265Line20Vers16 . Execution time:  60.04142093658447  seconds
+*****
+***** Procesing: Num718Line92Vers8
+DONE with  Num718Line92Vers8 . Execution time:  58.301491022109985  seconds
+*****
+***** Procesing: Num823Line104Vers24
+DONE with  Num823Line104Vers24 . Execution time:  59.643378257751465  seconds
+*****
+***** Procesing: Num114Line13Vers32
+DONE with  Num114Line13Vers32 . Execution time:  57.04522395133972  seconds
+*****
+***** Procesing: Num680Line88Vers10
+DONE with  Num680Line88Vers10 . Execution time:  60.50114893913269  seconds
+*****
+***** Procesing: Num119Line13Vers37
+DONE with  Num119Line13Vers37 . Execution time:  61.819485902786255  seconds
+*****
+***** Procesing: Num781Line101Vers57
+DONE with  Num781Line101Vers57 . Execution time:  60.82791805267334  seconds
+*****
+***** Procesing: Num706Line90Vers23
+DONE with  Num706Line90Vers23 . Execution time:  23.407691955566406  seconds
+*****
+***** Procesing: Num277Line20Vers28
+DONE with  Num277Line20Vers28 . Execution time:  61.02994990348816  seconds
+*****
+***** Procesing: Num1080Line118Vers12
+DONE with  Num1080Line118Vers12 . Execution time:  56.511746883392334  seconds
+*****
+***** Procesing: Num1142Line122Vers24
+DONE with  Num1142Line122Vers24 . Execution time:  58.303873777389526  seconds
+*****
+***** Procesing: Num818Line104Vers19
+DONE with  Num818Line104Vers19 . Execution time:  62.160563945770264  seconds
+*****
+***** Procesing: Num279Line20Vers30
+DONE with  Num279Line20Vers30 . Execution time:  61.177046060562134  seconds
+*****
+***** Procesing: Num180Line15Vers24
+DONE with  Num180Line15Vers24 . Execution time:  61.18797016143799  seconds
+*****
+***** Procesing: Num227Line16Vers33
+DONE with  Num227Line16Vers33 . Execution time:  61.401007652282715  seconds
+*****
+***** Procesing: Num503Line72Vers5
+DONE with  Num503Line72Vers5 . Execution time:  61.06538701057434  seconds
+*****
+***** Procesing: Num423Line43Vers9
+DONE with  Num423Line43Vers9 . Execution time:  69.59434819221497  seconds
+*****
+***** Procesing: Num426Line43Vers12
+DONE with  Num426Line43Vers12 . Execution time:  58.348068952560425  seconds
+*****
+***** Procesing: Num752Line101Vers28
+DONE with  Num752Line101Vers28 . Execution time:  64.10045003890991  seconds
+*****
+***** Procesing: Num1314Line145Vers1
+DONE with  Num1314Line145Vers1 . Execution time:  19.238842010498047  seconds
+*****
+***** Procesing: Num89Line13Vers7
+DONE with  Num89Line13Vers7 . Execution time:  60.576212882995605  seconds
+*****
+***** Procesing: Num1129Line122Vers11
+DONE with  Num1129Line122Vers11 . Execution time:  59.293615102767944  seconds
+*****
+***** Procesing: Num1241Line139Vers26
+DONE with  Num1241Line139Vers26 . Execution time:  24.35673213005066  seconds
+*****
+***** Procesing: Num199Line16Vers5
+DONE with  Num199Line16Vers5 . Execution time:  60.127203702926636  seconds
+*****
+***** Procesing: Num784Line101Vers60
+DONE with  Num784Line101Vers60 . Execution time:  59.699406147003174  seconds
+*****
+***** Procesing: Num11Line7Vers11
+DONE with  Num11Line7Vers11 . Execution time:  60.621532917022705  seconds
+*****
+***** Procesing: Num830Line112Vers4
+DONE with  Num830Line112Vers4 . Execution time:  58.61019706726074  seconds
+*****
+***** Procesing: Num1366Line151Vers1
+DONE with  Num1366Line151Vers1 . Execution time:  61.05372214317322  seconds
+*****
+***** Procesing: Num1326Line146Vers12
+DONE with  Num1326Line146Vers12 . Execution time:  60.828827142715454  seconds
+*****
+***** Procesing: Num354Line38Vers3
+DONE with  Num354Line38Vers3 . Execution time:  58.335877895355225  seconds
+*****
+***** Procesing: Num9Line7Vers9
+DONE with  Num9Line7Vers9 . Execution time:  19.67491364479065  seconds
+*****
+***** Procesing: Num110Line13Vers28
+DONE with  Num110Line13Vers28 . Execution time:  59.22882795333862  seconds
+*****
+***** Procesing: Num355Line39Vers1
+DONE with  Num355Line39Vers1 . Execution time:  207.65478467941284  seconds
+*****
+***** Procesing: Num671Line88Vers1
+DONE with  Num671Line88Vers1 . Execution time:  62.12265396118164  seconds
+*****
+***** Procesing: Num368Line41Vers12
+DONE with  Num368Line41Vers12 . Execution time:  61.13062310218811  seconds
+*****
+***** Procesing: Num241Line19Vers1
+DONE with  Num241Line19Vers1 . Execution time:  58.12585806846619  seconds
+*****
+***** Procesing: Num1390Line153Vers1
+DONE with  Num1390Line153Vers1 . Execution time:  59.690452098846436  seconds
+*****
+***** Procesing: Num184Line15Vers28
+DONE with  Num184Line15Vers28 . Execution time:  59.61935520172119  seconds
+*****
+***** Procesing: Num412Line42Vers15
+DONE with  Num412Line42Vers15 . Execution time:  57.49989199638367  seconds
+*****
+***** Procesing: Num273Line20Vers24
+DONE with  Num273Line20Vers24 . Execution time:  58.99125099182129  seconds
+*****
+***** Procesing: Num758Line101Vers34
+DONE with  Num758Line101Vers34 . Execution time:  57.76419496536255  seconds
+*****
+***** Procesing: Num675Line88Vers5
+DONE with  Num675Line88Vers5 . Execution time:  60.283509969711304  seconds
+*****
+***** Procesing: Num1112Line120Vers1
+DONE with  Num1112Line120Vers1 . Execution time:  63.199979066848755  seconds
+*****
+***** Procesing: Num1225Line139Vers10
+DONE with  Num1225Line139Vers10 . Execution time:  24.992547035217285  seconds
+*****
+***** Procesing: Num1238Line139Vers23
+DONE with  Num1238Line139Vers23 . Execution time:  24.804792881011963  seconds
+*****
+***** Procesing: Num297Line21Vers2
+DONE with  Num297Line21Vers2 . Execution time:  60.35227704048157  seconds
+*****
+***** Procesing: Num761Line101Vers37
+DONE with  Num761Line101Vers37 . Execution time:  59.8223979473114  seconds
+*****
+***** Procesing: Num799Line103Vers9
+DONE with  Num799Line103Vers9 . Execution time:  60.48640727996826  seconds
+*****
+***** Procesing: Num156Line14Vers37
+DONE with  Num156Line14Vers37 . Execution time:  62.17103099822998  seconds
+*****
+***** Procesing: Num120Line14Vers1
+DONE with  Num120Line14Vers1 . Execution time:  59.07855677604675  seconds
+*****
+***** Procesing: Num739Line101Vers15
+DONE with  Num739Line101Vers15 . Execution time:  61.834723234176636  seconds
+*****
+***** Procesing: Num783Line101Vers59
+DONE with  Num783Line101Vers59 . Execution time:  58.159897804260254  seconds
+*****
+***** Procesing: Num532Line82Vers15
+DONE with  Num532Line82Vers15 . Execution time:  60.3148250579834  seconds
+*****
+***** Procesing: Num399Line42Vers2
+DONE with  Num399Line42Vers2 . Execution time:  57.59012198448181  seconds
+*****
+***** Procesing: Num38Line9Vers12
+DONE with  Num38Line9Vers12 . Execution time:  57.98095226287842  seconds
+*****
+***** Procesing: Num26Line8Vers13
+DONE with  Num26Line8Vers13 . Execution time:  67.21069288253784  seconds
+*****
+***** Procesing: Num738Line101Vers14
+DONE with  Num738Line101Vers14 . Execution time:  61.94101619720459  seconds
+*****
+***** Procesing: Num288Line20Vers39
+DONE with  Num288Line20Vers39 . Execution time:  59.90248417854309  seconds
+*****
+***** Procesing: Num356Line40Vers1
+DONE with  Num356Line40Vers1 . Execution time:  221.0627772808075  seconds
+*****
+***** Procesing: Num525Line82Vers8
+DONE with  Num525Line82Vers8 . Execution time:  60.116050004959106  seconds
+*****
+***** Procesing: Num252Line20Vers3
+DONE with  Num252Line20Vers3 . Execution time:  57.91942024230957  seconds
+*****
+***** Procesing: Num515Line74Vers4
+DONE with  Num515Line74Vers4 . Execution time:  19.24913787841797  seconds
+*****
+***** Procesing: Num249Line19Vers9
+DONE with  Num249Line19Vers9 . Execution time:  59.40711975097656  seconds
+*****
+***** Procesing: Num475Line63Vers11
+DONE with  Num475Line63Vers11 . Execution time:  59.87490391731262  seconds
+*****
+***** Procesing: Num1231Line139Vers16
+DONE with  Num1231Line139Vers16 . Execution time:  61.16823601722717  seconds
+*****
+***** Procesing: Num1308Line144Vers7
+DONE with  Num1308Line144Vers7 . Execution time:  61.51061797142029  seconds
+*****
+***** Procesing: Num203Line16Vers9
+DONE with  Num203Line16Vers9 . Execution time:  58.514768838882446  seconds
+*****
+***** Procesing: Num658Line87Vers5
+Num658Line87Vers5 is ready
+***** Procesing: Num178Line15Vers22
+DONE with  Num178Line15Vers22 . Execution time:  58.93230223655701  seconds
+*****
+***** Procesing: Num104Line13Vers22
+DONE with  Num104Line13Vers22 . Execution time:  60.63777685165405  seconds
+*****
+***** Procesing: Num790Line102Vers1
+DONE with  Num790Line102Vers1 . Execution time:  73.86262607574463  seconds
+*****
+***** Procesing: Num90Line13Vers8
+DONE with  Num90Line13Vers8 . Execution time:  59.651846170425415  seconds
+*****
+***** Procesing: Num148Line14Vers29
+DONE with  Num148Line14Vers29 . Execution time:  58.769304037094116  seconds
+*****
+***** Procesing: Num760Line101Vers36
+DONE with  Num760Line101Vers36 . Execution time:  59.2579448223114  seconds
+*****
+***** Procesing: Num109Line13Vers27
+DONE with  Num109Line13Vers27 . Execution time:  57.82816290855408  seconds
+*****
+***** Procesing: Num509Line72Vers11
+DONE with  Num509Line72Vers11 . Execution time:  59.218231201171875  seconds
+*****
+***** Procesing: Num193Line15Vers37
+DONE with  Num193Line15Vers37 . Execution time:  59.07003092765808  seconds
+*****
+***** Procesing: Num112Line13Vers30
+DONE with  Num112Line13Vers30 . Execution time:  60.020348072052  seconds
+*****
+***** Procesing: Num304Line22Vers3
+DONE with  Num304Line22Vers3 . Execution time:  59.83402705192566  seconds
+*****
+***** Procesing: Num342Line36Vers1
+DONE with  Num342Line36Vers1 . Execution time:  18.505587816238403  seconds
+*****
+***** Procesing: Num1296Line141Vers8
+DONE with  Num1296Line141Vers8 . Execution time:  57.3309531211853  seconds
+*****
+***** Procesing: Num213Line16Vers19
+DONE with  Num213Line16Vers19 . Execution time:  59.960418701171875  seconds
+*****
+***** Procesing: Num609Line85Vers31
+DONE with  Num609Line85Vers31 . Execution time:  61.67023730278015  seconds
+*****
+***** Procesing: Num263Line20Vers14
+DONE with  Num263Line20Vers14 . Execution time:  57.90633010864258  seconds
+*****
+***** Procesing: Num116Line13Vers34
+DONE with  Num116Line13Vers34 . Execution time:  62.10235381126404  seconds
+*****
+***** Procesing: Num128Line14Vers9
+DONE with  Num128Line14Vers9 . Execution time:  57.628751277923584  seconds
+*****
+***** Procesing: Num811Line104Vers12
+DONE with  Num811Line104Vers12 . Execution time:  58.848231077194214  seconds
+*****
+***** Procesing: Num405Line42Vers8
+DONE with  Num405Line42Vers8 . Execution time:  49.86181998252869  seconds
+*****
+***** Procesing: Num175Line15Vers19
+DONE with  Num175Line15Vers19 . Execution time:  59.93277382850647  seconds
+*****
+***** Procesing: Num398Line42Vers1
+DONE with  Num398Line42Vers1 . Execution time:  61.371437788009644  seconds
+*****
+***** Procesing: Num160Line15Vers4
+DONE with  Num160Line15Vers4 . Execution time:  57.546003103256226  seconds
+*****
+***** Procesing: Num337Line34Vers9
+DONE with  Num337Line34Vers9 . Execution time:  18.911574840545654  seconds
+*****
+***** Procesing: Num1239Line139Vers24
+DONE with  Num1239Line139Vers24 . Execution time:  22.594472885131836  seconds
+*****
+***** Procesing: Num1236Line139Vers21
+DONE with  Num1236Line139Vers21 . Execution time:  57.16460585594177  seconds
+*****
+***** Procesing: Num121Line14Vers2
+DONE with  Num121Line14Vers2 . Execution time:  59.27569937705994  seconds
+*****
+***** Procesing: Num195Line16Vers1
+DONE with  Num195Line16Vers1 . Execution time:  57.47905516624451  seconds
+*****
+***** Procesing: Num53Line11Vers7
+DONE with  Num53Line11Vers7 . Execution time:  59.27887678146362  seconds
+*****
+***** Procesing: Num293Line20Vers44
+DONE with  Num293Line20Vers44 . Execution time:  60.660836935043335  seconds
+*****
+***** Procesing: Num100Line13Vers18
+DONE with  Num100Line13Vers18 . Execution time:  59.142330169677734  seconds
+*****
+***** Procesing: Num221Line16Vers27
+DONE with  Num221Line16Vers27 . Execution time:  58.99253010749817  seconds
+*****
+***** Procesing: Num1381Line152Vers5
+DONE with  Num1381Line152Vers5 . Execution time:  58.36577916145325  seconds
+*****
+***** Procesing: Num1305Line144Vers4
+DONE with  Num1305Line144Vers4 . Execution time:  61.351665019989014  seconds
+*****
+***** Procesing: Num1327Line146Vers13
+DONE with  Num1327Line146Vers13 . Execution time:  60.1869261264801  seconds
+*****
+***** Procesing: Num378Line41Vers22
+DONE with  Num378Line41Vers22 . Execution time:  58.80816984176636  seconds
+*****
+***** Procesing: Num296Line21Vers1
+DONE with  Num296Line21Vers1 . Execution time:  59.35482597351074  seconds
+*****
+***** Procesing: Num138Line14Vers19
+DONE with  Num138Line14Vers19 . Execution time:  59.088841915130615  seconds
+*****
+***** Procesing: Num186Line15Vers30
+DONE with  Num186Line15Vers30 . Execution time:  61.30562114715576  seconds
+*****
+***** Procesing: Num341Line35Vers1
+DONE with  Num341Line35Vers1 . Execution time:  19.38344383239746  seconds
+*****
+***** Procesing: Num217Line16Vers23
+DONE with  Num217Line16Vers23 . Execution time:  58.82831525802612  seconds
+*****
+***** Procesing: Num401Line42Vers4
+DONE with  Num401Line42Vers4 . Execution time:  57.78728699684143  seconds
+*****
+***** Procesing: Num267Line20Vers18
+DONE with  Num267Line20Vers18 . Execution time:  58.96774768829346  seconds
+*****
+***** Procesing: Num164Line15Vers8
+DONE with  Num164Line15Vers8 . Execution time:  59.06127190589905  seconds
+*****
+***** Procesing: Num568Line84Vers16
+DONE with  Num568Line84Vers16 . Execution time:  53.99792695045471  seconds
+*****
+***** Procesing: Num1367Line151Vers2
+DONE with  Num1367Line151Vers2 . Execution time:  59.39091897010803  seconds
+*****
+***** Procesing: Num1116Line121Vers4
+DONE with  Num1116Line121Vers4 . Execution time:  60.63738298416138  seconds
+*****
+***** Procesing: Num418Line43Vers4
+DONE with  Num418Line43Vers4 . Execution time:  59.039897203445435  seconds
+*****
+***** Procesing: Num819Line104Vers20
+DONE with  Num819Line104Vers20 . Execution time:  61.553149938583374  seconds
+*****
+***** Procesing: Num43Line10Vers4
+DONE with  Num43Line10Vers4 . Execution time:  62.26090407371521  seconds
+*****
+***** Procesing: Num1292Line141Vers4
+DONE with  Num1292Line141Vers4 . Execution time:  60.67296385765076  seconds
+*****
+***** Procesing: Num1298Line142Vers1
+DONE with  Num1298Line142Vers1 . Execution time:  25.438163995742798  seconds
+*****
+***** Procesing: Num1166Line133Vers1
+DONE with  Num1166Line133Vers1 . Execution time:  61.381022930145264  seconds
+*****
+***** Procesing: Num666Line87Vers13
+DONE with  Num666Line87Vers13 . Execution time:  59.394004821777344  seconds
+*****
+***** Procesing: Num679Line88Vers9
+DONE with  Num679Line88Vers9 . Execution time:  60.83092403411865  seconds
+*****
+***** Procesing: Num154Line14Vers35
+DONE with  Num154Line14Vers35 . Execution time:  60.95645618438721  seconds
+*****
+***** Procesing: Num303Line22Vers2
+DONE with  Num303Line22Vers2 . Execution time:  58.61466097831726  seconds
+*****
+***** Procesing: Num230Line16Vers36
+DONE with  Num230Line16Vers36 . Execution time:  60.84667682647705  seconds
+*****
+***** Procesing: Num431Line43Vers17
+DONE with  Num431Line43Vers17 . Execution time:  16.484039068222046  seconds
+*****
+***** Procesing: Num1137Line122Vers19
+DONE with  Num1137Line122Vers19 . Execution time:  18.907100915908813  seconds
+*****
+***** Procesing: Num511Line73Vers1
+DONE with  Num511Line73Vers1 . Execution time:  107.3547613620758  seconds
+*****
+***** Procesing: Num1330Line146Vers16
+DONE with  Num1330Line146Vers16 . Execution time:  50.67734694480896  seconds
+*****
+***** Procesing: Num150Line14Vers31
+DONE with  Num150Line14Vers31 . Execution time:  57.231297969818115  seconds
+*****
+***** Procesing: Num1350Line149Vers9
+DONE with  Num1350Line149Vers9 . Execution time:  61.504751205444336  seconds
+*****
+***** Procesing: Num449Line60Vers4
+DONE with  Num449Line60Vers4 . Execution time:  57.085357904434204  seconds
+*****
+***** Procesing: Num36Line9Vers10
+DONE with  Num36Line9Vers10 . Execution time:  59.96902585029602  seconds
+*****
+***** Procesing: Num188Line15Vers32
+DONE with  Num188Line15Vers32 . Execution time:  58.60605001449585  seconds
+*****
+***** Procesing: Num722Line93Vers4
+DONE with  Num722Line93Vers4 . Execution time:  62.49016189575195  seconds
+*****
+***** Procesing: Num1386Line152Vers10
+DONE with  Num1386Line152Vers10 . Execution time:  61.41515612602234  seconds
+*****
+***** Procesing: Num1318Line146Vers4
+DONE with  Num1318Line146Vers4 . Execution time:  61.7770619392395  seconds
+*****
+***** Procesing: Num278Line20Vers29
+DONE with  Num278Line20Vers29 . Execution time:  60.37768292427063  seconds
+*****
+***** Procesing: Num352Line38Vers1
+DONE with  Num352Line38Vers1 . Execution time:  60.227778911590576  seconds
+*****
+***** Procesing: Num118Line13Vers36
+DONE with  Num118Line13Vers36 . Execution time:  58.824222803115845  seconds
+*****
+***** Procesing: Num75Line11Vers29
+DONE with  Num75Line11Vers29 . Execution time:  58.56626796722412  seconds
+*****
+***** Procesing: Num298Line21Vers3
+DONE with  Num298Line21Vers3 . Execution time:  57.239267110824585  seconds
+*****
+***** Procesing: Num681Line88Vers11
+DONE with  Num681Line88Vers11 . Execution time:  59.81774306297302  seconds
+*****
+***** Procesing: Num351Line37Vers9
+DONE with  Num351Line37Vers9 . Execution time:  60.992363929748535  seconds
+*****
+***** Procesing: Num1176Line135Vers9
+DONE with  Num1176Line135Vers9 . Execution time:  22.304996013641357  seconds
+*****
+***** Procesing: Num196Line16Vers2
+DONE with  Num196Line16Vers2 . Execution time:  58.626551151275635  seconds
+*****
+***** Procesing: Num1338Line146Vers24
+DONE with  Num1338Line146Vers24 . Execution time:  59.29611086845398  seconds
+*****
+***** Procesing: Num44Line10Vers5
+DONE with  Num44Line10Vers5 . Execution time:  58.994502782821655  seconds
+*****
+***** Procesing: Num459Line61Vers8
+DONE with  Num459Line61Vers8 . Execution time:  62.30433487892151  seconds
+*****
+***** Procesing: Num176Line15Vers20
+DONE with  Num176Line15Vers20 . Execution time:  61.3313410282135  seconds
+*****
+***** Procesing: Num222Line16Vers28
+DONE with  Num222Line16Vers28 . Execution time:  58.96960425376892  seconds
+*****
+***** Procesing: Num107Line13Vers25
+DONE with  Num107Line13Vers25 . Execution time:  61.56658601760864  seconds
+*****
+***** Procesing: Num1302Line144Vers1
+DONE with  Num1302Line144Vers1 . Execution time:  62.26140809059143  seconds
+*****
+***** Procesing: Num424Line43Vers10
+DONE with  Num424Line43Vers10 . Execution time:  63.228825092315674  seconds
+*****
+***** Procesing: Num1306Line144Vers5
+DONE with  Num1306Line144Vers5 . Execution time:  57.82815408706665  seconds
+*****
+***** Procesing: Num103Line13Vers21
+DONE with  Num103Line13Vers21 . Execution time:  59.471062898635864  seconds
+*****
+***** Procesing: Num8Line7Vers8
+DONE with  Num8Line7Vers8 . Execution time:  20.04716396331787  seconds
+*****
+***** Procesing: Num1289Line141Vers1
+DONE with  Num1289Line141Vers1 . Execution time:  58.187652826309204  seconds
+*****
+***** Procesing: Num182Line15Vers26
+DONE with  Num182Line15Vers26 . Execution time:  60.114745140075684  seconds
+*****
+***** Procesing: Num225Line16Vers31
+DONE with  Num225Line16Vers31 . Execution time:  58.704936027526855  seconds
+*****
+***** Procesing: Num353Line38Vers2
+DONE with  Num353Line38Vers2 . Execution time:  58.47388792037964  seconds
+*****
+***** Procesing: Num1312Line144Vers11
+DONE with  Num1312Line144Vers11 . Execution time:  57.486896276474  seconds
+*****
+***** Procesing: Num166Line15Vers10
+DONE with  Num166Line15Vers10 . Execution time:  60.00040602684021  seconds
+*****
+***** Procesing: Num215Line16Vers21
+DONE with  Num215Line16Vers21 . Execution time:  60.472257137298584  seconds
+*****
+***** Procesing: Num519Line82Vers2
+DONE with  Num519Line82Vers2 . Execution time:  60.34284687042236  seconds
+*****
+***** Procesing: Num218Line16Vers24
+DONE with  Num218Line16Vers24 . Execution time:  62.034912109375  seconds
+*****
+***** Procesing: Num434Line43Vers20
+DONE with  Num434Line43Vers20 . Execution time:  18.10859704017639  seconds
+*****
+***** Procesing: Num127Line14Vers8
+DONE with  Num127Line14Vers8 . Execution time:  57.27681016921997  seconds
+*****
+***** Procesing: Num1356Line150Vers4
+DONE with  Num1356Line150Vers4 . Execution time:  58.29237699508667  seconds
+*****
+***** Procesing: Num1303Line144Vers2
+DONE with  Num1303Line144Vers2 . Execution time:  60.26068615913391  seconds
+*****
+***** Procesing: Num147Line14Vers28
+DONE with  Num147Line14Vers28 . Execution time:  57.95059299468994  seconds
+*****
+***** Procesing: Num149Line14Vers30
+DONE with  Num149Line14Vers30 . Execution time:  56.907514810562134  seconds
+*****
+***** Procesing: Num1377Line152Vers1
+DONE with  Num1377Line152Vers1 . Execution time:  59.36562132835388  seconds
+*****
+***** Procesing: Num1307Line144Vers6
+DONE with  Num1307Line144Vers6 . Execution time:  59.03423476219177  seconds
+*****
+***** Procesing: Num12Line7Vers12
+DONE with  Num12Line7Vers12 . Execution time:  57.36384105682373  seconds
+*****
+***** Procesing: Num123Line14Vers4
+DONE with  Num123Line14Vers4 . Execution time:  60.66953897476196  seconds
+*****
+***** Procesing: Num302Line22Vers1
+DONE with  Num302Line22Vers1 . Execution time:  59.34271216392517  seconds
+*****
+***** Procesing: Num1212Line138Vers10
+DONE with  Num1212Line138Vers10 . Execution time:  24.46540117263794  seconds
+*****
+***** Procesing: Num155Line14Vers36
+DONE with  Num155Line14Vers36 . Execution time:  58.667773962020874  seconds
+*****
+***** Procesing: Num773Line101Vers49
+DONE with  Num773Line101Vers49 . Execution time:  59.71391272544861  seconds
+*****
+***** Procesing: Num455Line61Vers4
+DONE with  Num455Line61Vers4 . Execution time:  64.4822587966919  seconds
+*****
+***** Procesing: Num191Line15Vers35
+DONE with  Num191Line15Vers35 . Execution time:  59.61894679069519  seconds
+*****
+***** Procesing: Num151Line14Vers32
+DONE with  Num151Line14Vers32 . Execution time:  58.48128008842468  seconds
+*****
+***** Procesing: Num938Line114Vers43
+DONE with  Num938Line114Vers43 . Execution time:  59.86744689941406  seconds
+*****
+***** Procesing: Num339Line34Vers11
+DONE with  Num339Line34Vers11 . Execution time:  61.5593159198761  seconds
+*****
+***** Procesing: Num268Line20Vers19
+DONE with  Num268Line20Vers19 . Execution time:  66.95436191558838  seconds
+*****
+***** Procesing: Num83Line13Vers1
+DONE with  Num83Line13Vers1 . Execution time:  71.3822009563446  seconds
+*****
+***** Procesing: Num233Line17Vers1
+DONE with  Num233Line17Vers1 . Execution time:  73.37206792831421  seconds
+*****
+***** Procesing: Num21Line8Vers8
+DONE with  Num21Line8Vers8 . Execution time:  72.68960785865784  seconds
+*****
+***** Procesing: Num635Line86Vers17
+DONE with  Num635Line86Vers17 . Execution time:  66.86899185180664  seconds
+*****
+***** Procesing: Num137Line14Vers18
+DONE with  Num137Line14Vers18 . Execution time:  65.6034722328186  seconds
+*****
+***** Procesing: Num45Line10Vers6
+DONE with  Num45Line10Vers6 . Execution time:  76.03681206703186  seconds
+*****
+***** Procesing: Num1331Line146Vers17
+DONE with  Num1331Line146Vers17 . Execution time:  67.81318712234497  seconds
+*****
+***** Procesing: Num411Line42Vers14
+DONE with  Num411Line42Vers14 . Execution time:  66.17388391494751  seconds
+*****
+***** Procesing: Num1300Line143Vers2
+DONE with  Num1300Line143Vers2 . Execution time:  67.40477180480957  seconds
+*****
+***** Procesing: Num283Line20Vers34
+DONE with  Num283Line20Vers34 . Execution time:  64.95427823066711  seconds
+*****
+***** Procesing: Num158Line15Vers2
+DONE with  Num158Line15Vers2 . Execution time:  76.87608671188354  seconds
+*****
+***** Procesing: Num61Line11Vers15
+DONE with  Num61Line11Vers15 . Execution time:  67.92898678779602  seconds
+*****
+***** Procesing: Num143Line14Vers24
+DONE with  Num143Line14Vers24 . Execution time:  63.963253021240234  seconds
+*****
+(base) alduck@alduck MutationAnalisys % 

@@ -1,0 +1,1 @@
+The output used as ttd in GMRs is named test_data_MRG.json :
